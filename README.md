@@ -1,0 +1,1 @@
+# smartshoppr-data
