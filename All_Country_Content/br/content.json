@@ -1,0 +1,1462 @@
+{
+  "deals_stores": [
+    {
+      "id": "226",
+      "name": "Ali express",
+      "icon": "store\/226.png",
+      "deals_count": 0,
+      "url": "http:\/\/s.click.aliexpress.com\/e\/BAEEeyR",
+      "searchUrl": "https:\/\/pt.aliexpress.com\/af\/%s.html?d=y&origin=n&blanktest=0&jump=afs&initiative_id=SB_20180123003110&isViewCP=y&catId=0",
+      "colorCode": "#E62E04"
+    },
+    {
+      "id": "231",
+      "name": "Americanas",
+      "icon": "store\/231.png",
+      "deals_count": 0,
+      "url": "http:\/\/www.americanas.com.br\/",
+      "searchUrl": "https:\/\/www.americanas.com.br\/busca?conteudo=%s",
+      "colorCode": "#E62E04"
+    },
+    {
+      "id": "232",
+      "name": "Walmart",
+      "icon": "store\/232.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.walmart.com\/",
+      "searchUrl": "https:\/\/www.walmart.com\/search\/?query=%s&cat_id=0",
+      "colorCode": "#1B89F5"
+    },
+    {
+      "id": "233",
+      "name": "Amazon",
+      "icon": "store\/233.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.amazon.com.br",
+      "searchUrl": null,
+      "colorCode": "#000000"
+    },
+    {
+      "id": "234",
+      "name": "Mercado livre",
+      "icon": "store\/234.jpg",
+      "deals_count": 0,
+      "url": "http:\/\/www.mercadolivre.com.br\/",
+      "searchUrl": "https:\/\/lista.mercadolivre.com.br\/%s",
+      "colorCode": "#FEE801"
+    },
+    {
+      "id": "235",
+      "name": "Magazine luiza",
+      "icon": "store\/235.png",
+      "deals_count": 0,
+      "url": "https:\/\/m.magazineluiza.com.br\/",
+      "searchUrl": "https:\/\/m.magazineluiza.com.br\/busca\/%s\/",
+      "colorCode": "#0083CA"
+    },
+    {
+      "id": "236",
+      "name": "Dafiti",
+      "icon": "store\/236.png",
+      "deals_count": 0,
+      "url": "https:\/\/m.dafiti.com.br\/",
+      "searchUrl": "https:\/\/www.dafiti.com.br\/catalog\/?q=%s&wtqs=1",
+      "colorCode": ""
+    },
+    {
+      "id": "237",
+      "name": "Netshoes",
+      "icon": "store\/237.png",
+      "deals_count": 0,
+      "url": "http:\/\/www.netshoes.com.br\/",
+      "searchUrl": null,
+      "colorCode": "#592C81"
+    },
+    {
+      "id": "238",
+      "name": "Banggood",
+      "icon": "store\/238.png",
+      "deals_count": 0,
+      "url": "http:\/\/m.banggood.com\/",
+      "searchUrl": null,
+      "colorCode": "#FA8E15"
+    },
+    {
+      "id": "239",
+      "name": "Gearbest",
+      "icon": "store\/239.png",
+      "deals_count": 0,
+      "url": "http:\/\/m.gearbest.com\/",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "240",
+      "name": "Aondeconvem",
+      "icon": "store\/240.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.aondeconvem.com.br\/",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "241",
+      "name": "Petlove",
+      "icon": "store\/241.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.petlove.com.br\/",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "242",
+      "name": "Tricae",
+      "icon": "store\/242.png",
+      "deals_count": 0,
+      "url": "https:\/\/m.tricae.com.br\/",
+      "searchUrl": null,
+      "colorCode": "#E62E04"
+    },
+    {
+      "id": "243",
+      "name": "Shoptime",
+      "icon": "store\/243.png",
+      "deals_count": 0,
+      "url": "http:\/\/www.shoptime.com.br\/",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "244",
+      "name": "Extra",
+      "icon": "store\/244.png",
+      "deals_count": 0,
+      "url": "https:\/\/m.extra.com.br\/#\/",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "245",
+      "name": "Saraiva",
+      "icon": "store\/245.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.saraiva.com.br\/",
+      "searchUrl": "",
+      "colorCode": ""
+    },
+    {
+      "id": "246",
+      "name": "Casas bahia",
+      "icon": "store\/246.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.casasbahia.com.br\/",
+      "searchUrl": "",
+      "colorCode": ""
+    },
+    {
+      "id": "247",
+      "name": "Ricardoelectro",
+      "icon": "store\/247.png",
+      "deals_count": 0,
+      "url": "http:\/\/m.ricardoeletro.com.br\/",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "248",
+      "name": "Bemol",
+      "icon": "store\/248.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.bemol.com.br\/loja\/pt\/bemol",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "249",
+      "name": "Comprasparaguai",
+      "icon": "store\/249.png",
+      "deals_count": 0,
+      "url": "http:\/\/mobile.comprasparaguai.com.br\/",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "250",
+      "name": "Submarino",
+      "icon": "store\/250.png",
+      "deals_count": 0,
+      "url": "http:\/\/www.submarino.com.br\/",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "252",
+      "name": "Buscape",
+      "icon": "store\/252.png",
+      "deals_count": 0,
+      "url": "http:\/\/www.buscape.com.br\/",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "253",
+      "name": "Kanui",
+      "icon": "store\/253.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.kanui.com.br\/",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "254",
+      "name": "Centauro",
+      "icon": "store\/254.png",
+      "deals_count": 0,
+      "url": "http:\/\/m.centauro.com.br\/nav\/genero\/masculino\/grupo\/vestuario\/0",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "255",
+      "name": "Zattini",
+      "icon": "store\/255.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.zattini.com.br",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "256",
+      "name": "Posthaus",
+      "icon": "store\/256.png",
+      "deals_count": 0,
+      "url": "http:\/\/www.posthaus.com.br\/",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "257",
+      "name": "Privalia",
+      "icon": "store\/257.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "258",
+      "name": "Bonprix",
+      "icon": "store\/258.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "259",
+      "name": "Oqvestir",
+      "icon": "store\/259.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "260",
+      "name": "Natura",
+      "icon": "store\/260.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "261",
+      "name": "Polishop",
+      "icon": "store\/261.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.polishop.com.br\/",
+      "searchUrl": "",
+      "colorCode": ""
+    },
+    {
+      "id": "262",
+      "name": "Hinode",
+      "icon": "store\/262.jpg",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "263",
+      "name": "Sephora",
+      "icon": "store\/263.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "264",
+      "name": "Mobly",
+      "icon": "store\/264.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "265",
+      "name": "Home refill",
+      "icon": "store\/265.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "266",
+      "name": "Light in the box",
+      "icon": "store\/266.png",
+      "deals_count": 0,
+      "url": "",
+      "searchUrl": null,
+      "colorCode": "#C91F25"
+    },
+    {
+      "id": "267",
+      "name": "Havan",
+      "icon": "store\/267.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "268",
+      "name": "Peixeurbano",
+      "icon": "store\/268.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "269",
+      "name": "Groupon",
+      "icon": "store\/269.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "270",
+      "name": "Couponeria",
+      "icon": "store\/270.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "271",
+      "name": "Promobit",
+      "icon": "store\/271.jpg",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "272",
+      "name": "Soubarato",
+      "icon": "store\/272.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "273",
+      "name": "Pelando",
+      "icon": "store\/273.jpg",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "274",
+      "name": "Picodi",
+      "icon": "store\/274.jpg",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "275",
+      "name": "Deliverymuch",
+      "icon": "store\/275.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "276",
+      "name": "Dominos",
+      "icon": "store\/276.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "277",
+      "name": "Clubfood",
+      "icon": "store\/277.jpg",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "278",
+      "name": "Pedidos ja",
+      "icon": "store\/278.jpg",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "279",
+      "name": "Dinda",
+      "icon": "store\/279.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "280",
+      "name": "Mama",
+      "icon": "store\/280.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "281",
+      "name": "Olx",
+      "icon": "store\/281.png",
+      "deals_count": 0,
+      "url": "",
+      "searchUrl": null,
+      "colorCode": "#9027B0"
+    },
+    {
+      "id": "282",
+      "name": "Recharge",
+      "icon": "store\/282.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "283",
+      "name": "Mobile recharge",
+      "icon": "store\/283.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "284",
+      "name": "Facebook",
+      "icon": "store\/284.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "285",
+      "name": "Quora",
+      "icon": "store\/285.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "286",
+      "name": "Twitter",
+      "icon": "store\/286.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "287",
+      "name": "Pinterest",
+      "icon": "store\/287.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "288",
+      "name": "Reddit",
+      "icon": "store\/288.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    }
+  ],
+  "categories": [
+    {
+      "id": "59",
+      "name": "Lojas top",
+      "icon": "category\/59.png",
+      "stores": [
+        {
+          "id": "226",
+          "name": "Ali express",
+          "url": "http:\/\/s.click.aliexpress.com\/e\/BAEEeyR",
+          "oneLiner": "",
+          "icon": "store\/226.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "231",
+          "name": "Americanas",
+          "url": "http:\/\/www.americanas.com.br\/",
+          "oneLiner": "",
+          "icon": "store\/231.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "232",
+          "name": "Walmart",
+          "url": "http:\/\/click.linksynergy.com\/fs-bin\/click?id=iew2S8AtJAI&offerid=420922.105&type=3&subid=0",
+          "oneLiner": "",
+          "icon": "store\/232.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "233",
+          "name": "Amazon",
+          "url": "https:\/\/www.amazon.com.br\/\/ref=as_li_ss_tl?ie=UTF8&linkCode=ll2&tag=topstores03-20&linkId=ba1766acab3cf7c43f4b6037686443f3",
+          "oneLiner": "",
+          "icon": "store\/233.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "234",
+          "name": "Mercado livre",
+          "url": "http:\/\/www.mercadolivre.com.br\/",
+          "oneLiner": "",
+          "icon": "store\/234.jpg",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "235",
+          "name": "Magazine luiza",
+          "url": "https:\/\/m.magazineluiza.com.br\/",
+          "oneLiner": "",
+          "icon": "store\/235.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "236",
+          "name": "Dafiti",
+          "url": "https:\/\/m.dafiti.com.br\/",
+          "oneLiner": "",
+          "icon": "store\/236.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "237",
+          "name": "Netshoes",
+          "url": "http:\/\/www.netshoes.com.br\/",
+          "oneLiner": "",
+          "icon": "store\/237.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "238",
+          "name": "Banggood",
+          "url": "http:\/\/m.banggood.com\/",
+          "oneLiner": "",
+          "icon": "store\/238.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "239",
+          "name": "Gearbest",
+          "url": "http:\/\/m.gearbest.com\/",
+          "oneLiner": "",
+          "icon": "store\/239.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "240",
+          "name": "Aondeconvem",
+          "url": "https:\/\/www.aondeconvem.com.br\/",
+          "oneLiner": "",
+          "icon": "store\/240.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "241",
+          "name": "Petlove",
+          "url": "https:\/\/www.petlove.com.br\/",
+          "oneLiner": "",
+          "icon": "store\/241.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "242",
+          "name": "Tricae",
+          "url": "https:\/\/m.tricae.com.br\/",
+          "oneLiner": "",
+          "icon": "store\/242.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "243",
+          "name": "Shoptime",
+          "url": "http:\/\/www.shoptime.com.br\/",
+          "oneLiner": "",
+          "icon": "store\/243.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "244",
+          "name": "Extra",
+          "url": "https:\/\/m.extra.com.br\/#\/",
+          "oneLiner": "",
+          "icon": "store\/244.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "245",
+          "name": "Saraiva",
+          "url": "https:\/\/ad.zanox.com\/ppc\/?40673773C36094002&ULP=[[http:\/\/www.saraiva.com.br\/?PAC_ID=125109&utm_source=zanox&utm_medium=afiliados&utm_campaign=deeplink]]",
+          "oneLiner": "",
+          "icon": "store\/245.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "246",
+          "name": "Casas bahia",
+          "url": "https:\/\/ad.zanox.com\/ppc\/?40673757C36308481&ULP=[[http:\/\/www.casasbahia.com.br\/?utm_source=zanox&utm_medium=deeplink&utm_campaign=deeplink]]",
+          "oneLiner": "",
+          "icon": "store\/246.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "247",
+          "name": "Ricardoelectro",
+          "url": "http:\/\/m.ricardoeletro.com.br\/",
+          "oneLiner": "",
+          "icon": "store\/247.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "248",
+          "name": "Bemol",
+          "url": "https:\/\/www.bemol.com.br\/loja\/pt\/bemol",
+          "oneLiner": "",
+          "icon": "store\/248.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "249",
+          "name": "Comprasparaguai",
+          "url": "http:\/\/mobile.comprasparaguai.com.br\/",
+          "oneLiner": "",
+          "icon": "store\/249.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "250",
+          "name": "Submarino",
+          "url": "http:\/\/www.submarino.com.br\/",
+          "oneLiner": "",
+          "icon": "store\/250.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "252",
+          "name": "Buscape",
+          "url": "http:\/\/www.buscape.com.br\/",
+          "oneLiner": "",
+          "icon": "store\/252.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "60",
+      "name": "Vestu\u00c3\u00a1rio",
+      "icon": "category\/60.png",
+      "stores": [
+        {
+          "id": "253",
+          "name": "Kanui",
+          "url": "https:\/\/www.kanui.com.br\/",
+          "oneLiner": "",
+          "icon": "store\/253.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "254",
+          "name": "Centauro",
+          "url": "http:\/\/m.centauro.com.br\/nav\/genero\/masculino\/grupo\/vestuario\/0",
+          "oneLiner": "",
+          "icon": "store\/254.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "255",
+          "name": "Zattini",
+          "url": "https:\/\/www.zattini.com.br",
+          "oneLiner": "",
+          "icon": "store\/255.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "256",
+          "name": "Posthaus",
+          "url": "http:\/\/www.posthaus.com.br\/",
+          "oneLiner": "",
+          "icon": "store\/256.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "61",
+      "name": "Moda mulheres",
+      "icon": "category\/61.png",
+      "stores": [
+        {
+          "id": "256",
+          "name": "Posthaus",
+          "url": "http:\/\/www.posthaus.com.br\/m\/moda\/moda-feminina.html?ctg=1",
+          "oneLiner": "",
+          "icon": "store\/256.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "257",
+          "name": "Privalia",
+          "url": "http:\/\/br.mobile.privalia.com\/welcome\/index",
+          "oneLiner": "",
+          "icon": "store\/257.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "258",
+          "name": "Bonprix",
+          "url": "http:\/\/www.bonprix.com.br\/",
+          "oneLiner": "",
+          "icon": "store\/258.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "259",
+          "name": "Oqvestir",
+          "url": "https:\/\/www.oqvestir.com.br\/",
+          "oneLiner": "",
+          "icon": "store\/259.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "62",
+      "name": "Beleza",
+      "icon": "category\/62.png",
+      "stores": [
+        {
+          "id": "259",
+          "name": "Oqvestir",
+          "url": "https:\/\/www.oqvestir.com.br\/",
+          "oneLiner": "",
+          "icon": "store\/259.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "260",
+          "name": "Natura",
+          "url": "https:\/\/www.naturabrasil.fr\/fr",
+          "oneLiner": "",
+          "icon": "store\/260.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "261",
+          "name": "Polishop",
+          "url": "https:\/\/ad.zanox.com\/ppc\/?40683831C70147190&ULP=[[http:\/\/www.polishop.com.br\/?utm_source=zanox&utm_medium=cpa&utm_campaign=deeplink_generator]]",
+          "oneLiner": "",
+          "icon": "store\/261.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "262",
+          "name": "Hinode",
+          "url": "http:\/\/www.hinode.com.br\/",
+          "oneLiner": "",
+          "icon": "store\/262.jpg",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "263",
+          "name": "Sephora",
+          "url": "http:\/\/www.sephora.com.br\/",
+          "oneLiner": "",
+          "icon": "store\/263.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "63",
+      "name": "Casa e cozinha",
+      "icon": "category\/63.png",
+      "stores": [
+        {
+          "id": "243",
+          "name": "Shoptime",
+          "url": "http:\/\/www.shoptime.com.br\/",
+          "oneLiner": "",
+          "icon": "store\/243.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "244",
+          "name": "Extra",
+          "url": "http:\/\/www.extra.com.br\/",
+          "oneLiner": "",
+          "icon": "store\/244.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "252",
+          "name": "Buscape",
+          "url": "http:\/\/www.buscape.com.br\/",
+          "oneLiner": "",
+          "icon": "store\/252.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "261",
+          "name": "Polishop",
+          "url": "https:\/\/ad.zanox.com\/ppc\/?40683831C70147190&ULP=[[http:\/\/www.polishop.com.br\/?utm_source=zanox&utm_medium=cpa&utm_campaign=deeplink_generator]]",
+          "oneLiner": "",
+          "icon": "store\/261.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "264",
+          "name": "Mobly",
+          "url": "http:\/\/m.mobly.com.br\/",
+          "oneLiner": "",
+          "icon": "store\/264.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "265",
+          "name": "Home refill",
+          "url": "https:\/\/www.homerefill.com.br\/",
+          "oneLiner": "",
+          "icon": "store\/265.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "266",
+          "name": "Light in the box",
+          "url": "http:\/\/m.lightinthebox.com\/en\/list\/home-and-garden_75",
+          "oneLiner": "",
+          "icon": "store\/266.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "267",
+          "name": "Havan",
+          "url": "http:\/\/www.havan.com.br\/",
+          "oneLiner": "",
+          "icon": "store\/267.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "64",
+      "name": "Cupons \/ ofertas",
+      "icon": "category\/64.png",
+      "stores": [
+        {
+          "id": "268",
+          "name": "Peixeurbano",
+          "url": "https:\/\/www.peixeurbano.com.br\/",
+          "oneLiner": "",
+          "icon": "store\/268.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "269",
+          "name": "Groupon",
+          "url": "https:\/\/www.groupon.com.br\/subscriptions?return_to=%2F%3Fbypass%3Dtrue",
+          "oneLiner": "",
+          "icon": "store\/269.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "270",
+          "name": "Couponeria",
+          "url": "https:\/\/www.cuponeria.com.br\/",
+          "oneLiner": "",
+          "icon": "store\/270.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "271",
+          "name": "Promobit",
+          "url": "https:\/\/www.promobit.com.br\/Promocoes\/ultimas-ofertas\/",
+          "oneLiner": "",
+          "icon": "store\/271.jpg",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "272",
+          "name": "Soubarato",
+          "url": "http:\/\/www.soubarato.com.br\/",
+          "oneLiner": "",
+          "icon": "store\/272.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "273",
+          "name": "Pelando",
+          "url": "https:\/\/www.pelando.com.br\/",
+          "oneLiner": "",
+          "icon": "store\/273.jpg",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "274",
+          "name": "Picodi",
+          "url": "https:\/\/www.picodi.com\/br\/",
+          "oneLiner": "",
+          "icon": "store\/274.jpg",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "65",
+      "name": "Cal\u00c3\u00a7ados",
+      "icon": "category\/65.png",
+      "stores": [
+        {
+          "id": "238",
+          "name": "Banggood",
+          "url": "http:\/\/m.banggood.com\/Wholesale-Bags-and-Shoes-c-3798.html",
+          "oneLiner": "",
+          "icon": "store\/238.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "239",
+          "name": "Gearbest",
+          "url": "http:\/\/m.gearbest.com\/bags-shoes-c_12168\/",
+          "oneLiner": "",
+          "icon": "store\/239.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "253",
+          "name": "Kanui",
+          "url": "https:\/\/www.kanui.com.br\/",
+          "oneLiner": "",
+          "icon": "store\/253.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "254",
+          "name": "Centauro",
+          "url": "http:\/\/m.centauro.com.br\/",
+          "oneLiner": "",
+          "icon": "store\/254.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "66",
+      "name": "Comida",
+      "icon": "category\/66.png",
+      "stores": [
+        {
+          "id": "275",
+          "name": "Deliverymuch",
+          "url": "https:\/\/www.deliverymuch.com.br\/",
+          "oneLiner": "",
+          "icon": "store\/275.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "276",
+          "name": "Dominos",
+          "url": "https:\/\/m.dominos.com.br\/#\/",
+          "oneLiner": "",
+          "icon": "store\/276.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "277",
+          "name": "Clubfood",
+          "url": "https:\/\/www.clubfood.com.br\/",
+          "oneLiner": "",
+          "icon": "store\/277.jpg",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "278",
+          "name": "Pedidos ja",
+          "url": "http:\/\/www.pedidosja.com.br\/",
+          "oneLiner": "",
+          "icon": "store\/278.jpg",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "67",
+      "name": "Beb\u00c3\u00aa e crian\u00c3\u00a7as",
+      "icon": "category\/67.png",
+      "stores": [
+        {
+          "id": "242",
+          "name": "Tricae",
+          "url": "https:\/\/www.tricae.com.br\/",
+          "oneLiner": "",
+          "icon": "store\/242.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "256",
+          "name": "Posthaus",
+          "url": "http:\/\/www.posthaus.com.br\/moda\/moda-infantil.html?PHPGPE=1",
+          "oneLiner": "",
+          "icon": "store\/256.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "260",
+          "name": "Natura",
+          "url": "https:\/\/www.naturabrasil.fr\/fr",
+          "oneLiner": "",
+          "icon": "store\/260.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "279",
+          "name": "Dinda",
+          "url": "https:\/\/www.dinda.com.br\/#_=_",
+          "oneLiner": "",
+          "icon": "store\/279.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "280",
+          "name": "Mama",
+          "url": "https:\/\/mama.wish.com\/",
+          "oneLiner": "",
+          "icon": "store\/280.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "68",
+      "name": "Classificados",
+      "icon": "category\/68.png",
+      "stores": [
+        {
+          "id": "234",
+          "name": "Mercado livre",
+          "url": "http:\/\/www.mercadolivre.com.br\/",
+          "oneLiner": "",
+          "icon": "store\/234.jpg",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "281",
+          "name": "Olx",
+          "url": "http:\/\/m.olx.com.br\/busca?w=3",
+          "oneLiner": "",
+          "icon": "store\/281.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "69",
+      "name": "Recarga m\u00c3\u00b3vel",
+      "icon": "category\/69.png",
+      "stores": [
+        {
+          "id": "282",
+          "name": "Recharge",
+          "url": "https:\/\/www.recharge.com\/en-BR",
+          "oneLiner": "",
+          "icon": "store\/282.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "283",
+          "name": "Mobile recharge",
+          "url": "https:\/\/mobilerecharge.com\/",
+          "oneLiner": "",
+          "icon": "store\/283.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "70",
+      "name": "Automotivo",
+      "icon": "category\/70.png",
+      "stores": [
+        {
+          "id": "226",
+          "name": "Ali express",
+          "url": "http:\/\/s.click.aliexpress.com\/e\/FuBQNJe",
+          "oneLiner": "",
+          "icon": "store\/226.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "231",
+          "name": "Americanas",
+          "url": "http:\/\/www.americanas.com.br\/categoria\/automotivo",
+          "oneLiner": "",
+          "icon": "store\/231.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "266",
+          "name": "Light in the box",
+          "url": "http:\/\/m.lightinthebox.com\/en\/list\/automotive_2623",
+          "oneLiner": "",
+          "icon": "store\/266.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "71",
+      "name": "Esportes",
+      "icon": "category\/71.png",
+      "stores": [
+        {
+          "id": "232",
+          "name": "Walmart",
+          "url": "http:\/\/click.linksynergy.com\/fs-bin\/click?id=iew2S8AtJAI&offerid=420922.105&type=3&subid=0",
+          "oneLiner": "",
+          "icon": "store\/232.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "237",
+          "name": "Netshoes",
+          "url": "http:\/\/www.netshoes.com.br\/",
+          "oneLiner": "",
+          "icon": "store\/237.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "254",
+          "name": "Centauro",
+          "url": "http:\/\/m.centauro.com.br\/",
+          "oneLiner": "",
+          "icon": "store\/254.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "72",
+      "name": "M\u00c3\u00addia social",
+      "icon": "category\/72.png",
+      "stores": [
+        {
+          "id": "284",
+          "name": "Facebook",
+          "url": "https:\/\/m.facebook.com\/?refsrc=https%3A%2F%2Fwww.facebook.com%2F&_rdr",
+          "oneLiner": "",
+          "icon": "store\/284.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "285",
+          "name": "Quora",
+          "url": "https:\/\/www.quora.com\/",
+          "oneLiner": "",
+          "icon": "store\/285.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "286",
+          "name": "Twitter",
+          "url": "https:\/\/mobile.twitter.com\/login?lang=en",
+          "oneLiner": "",
+          "icon": "store\/286.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "287",
+          "name": "Pinterest",
+          "url": "https:\/\/www.pinterest.com\/",
+          "oneLiner": "",
+          "icon": "store\/287.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "288",
+          "name": "Reddit",
+          "url": "https:\/\/m.reddit.com\/?compact=true",
+          "oneLiner": "",
+          "icon": "store\/288.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        }
+      ]
+    }
+  ],
+  "carousels": [
+    {
+      "image": "carousels\/country\/165.png",
+      "url": "",
+      "fallbackUrl": "",
+      "opens_liteapps": "0",
+      "caption": ""
+    },
+    {
+      "image": "carousels\/country\/444.png",
+      "url": "https:\/\/play.google.com\/store\/apps\/details?id=helium.wordoftheday.learnenglish.vocab&referrer=utm_source%3Dstshr%26utm_medium%3Dstshr%26utm_term%3Dstshr%26utm_content%3Dstshr%26utm_campaign%3Dstshr",
+      "fallbackUrl": "https:\/\/play.google.com\/store\/apps\/details?id=helium.wordoftheday.learnenglish.vocab&referrer=utm_source%3Dstshr%26utm_medium%3Dstshr%26utm_term%3Dstshr%26utm_content%3Dstshr%26utm_campaign%3Dstshr",
+      "opens_liteapps": "0",
+      "caption": ""
+    },
+    {
+      "image": "carousels\/country\/166.png",
+      "url": "",
+      "fallbackUrl": "",
+      "opens_liteapps": "0",
+      "caption": ""
+    }
+  ],
+  "carousels2": [
+    {
+      "image": "carousels\/country\/165.png",
+      "url": "",
+      "fallbackUrl": "",
+      "opens_liteapps": "0",
+      "caption": ""
+    },
+    {
+      "image": "carousels\/country\/444.png",
+      "url": "https:\/\/play.google.com\/store\/apps\/details?id=helium.wordoftheday.learnenglish.vocab&referrer=utm_source%3Dstshr%26utm_medium%3Dstshr%26utm_term%3Dstshr%26utm_content%3Dstshr%26utm_campaign%3Dstshr",
+      "fallbackUrl": "https:\/\/play.google.com\/store\/apps\/details?id=helium.wordoftheday.learnenglish.vocab&referrer=utm_source%3Dstshr%26utm_medium%3Dstshr%26utm_term%3Dstshr%26utm_content%3Dstshr%26utm_campaign%3Dstshr",
+      "opens_liteapps": "0",
+      "caption": ""
+    },
+    {
+      "image": "carousels\/country\/166.png",
+      "url": "",
+      "fallbackUrl": "",
+      "opens_liteapps": "0",
+      "caption": ""
+    }
+  ],
+  "generationTime": "April 6, 2025, 4:15 pm IST",
+  "unixTime": 1743936301,
+  "imagesBaseUrl": "http:\/\/img.stshr.co\/",
+  "countryCode": "BR",
+  "tabsOrder": [
+    0,
+    1,
+    2,
+    3
+  ]
+}

@@ -1,0 +1,3515 @@
+{
+  "deals_stores": [
+    {
+      "id": "1",
+      "name": "Amazon",
+      "icon": "store\/1608bde24209b1.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.amazon.in\/?&_encoding=UTF8&tag=liteapps-21&linkCode=ur2&linkId=ce63e29d0dac44db10bc9263ab8486e7&camp=3638&creative=24630",
+      "searchUrl": "https:\/\/www.amazon.in\/s\/ref=as_li_ss_tl?url=search-alias=aps&field-keywords=%s&tag=searchss-21",
+      "colorCode": "#232f3e"
+    },
+    {
+      "id": "2",
+      "name": "Flipkart",
+      "icon": "store\/25ac61b9ea6646.png",
+      "deals_count": 0,
+      "url": "https:\/\/fktr.in\/g8qb0oB",
+      "searchUrl": "https:\/\/www.flipkart.com\/",
+      "colorCode": "#2874f0"
+    },
+    {
+      "id": "3",
+      "name": "Shopclues",
+      "icon": "store\/35a8983ec33b2f.png",
+      "deals_count": 0,
+      "url": "https:\/\/clnk.in\/szFF",
+      "searchUrl": "https:\/\/bazaar.shopclues.com\/",
+      "colorCode": "#18a6b0"
+    },
+    {
+      "id": "4",
+      "name": "Snapdeal",
+      "icon": "store\/45a8a83bee8ac6.png",
+      "deals_count": 0,
+      "url": "https:\/\/clnk.in\/szFJ",
+      "searchUrl": "https:\/\/www.snapdeal.com\/",
+      "colorCode": "#e40046"
+    },
+    {
+      "id": "5",
+      "name": "Myntra",
+      "icon": "store\/55a0966c295c17.png",
+      "deals_count": 0,
+      "url": "https:\/\/myntr.it\/CY7CFWP",
+      "searchUrl": "https:\/\/www.myntra.com\/%s?userQuery=true",
+      "colorCode": "#ff912e"
+    },
+    {
+      "id": "6",
+      "name": "Meesho",
+      "icon": "store\/6636e20904c30e.jpeg",
+      "deals_count": 0,
+      "url": "https:\/\/www.meesho.com\/affiliate_collection\/facet_collection\/82330?&af_xp=custom&product_id={product_id}&collection_name=affiliate_collection&af_force_deeplink=true&host_internal=single_collection&pwsvid=66effa3d05e83b038ce46b95&pid=paisawapas_int&is_retargeting=true&af_click_lookback=1d&product_name=product&utm_source=extrape&utm_medium=telegram&collection_id=82330&external_product_id={external_product_id}&utm_campaign=extrape_EPTG1768212_w08HkH&clickid=66effa3d05e83b038ce46b95-WEB--AIOS-1768212&web_view_url=https:\/\/www.meesho.com\/affiliate_collection\/facet_collection\/82330?&af_reengagement_window=1d&af_deeplink=true&af_siteid=extrape&c=extrape_EPTG1768212_w08HkH",
+      "searchUrl": "https:\/\/www.meesho.com\/",
+      "colorCode": "#ef810b"
+    },
+    {
+      "id": "7",
+      "name": "Lenskart",
+      "icon": "store\/7.png",
+      "deals_count": 0,
+      "url": "https:\/\/lenskart.com",
+      "searchUrl": null,
+      "colorCode": "#60beb8"
+    },
+    {
+      "id": "8",
+      "name": "Olx",
+      "icon": "store\/8.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=https%3A\/\/www.olx.in\/",
+      "searchUrl": null,
+      "colorCode": "#ffffff"
+    },
+    {
+      "id": "9",
+      "name": "Paytm",
+      "icon": "store\/9.jpg",
+      "deals_count": 0,
+      "url": "https:\/\/paytm.com\/",
+      "searchUrl": "",
+      "colorCode": "#00b8ec"
+    },
+    {
+      "id": "10",
+      "name": "Firstcry",
+      "icon": "store\/10.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=liteapps&source=linkkit&url=http%3A%2F%2Fwww.firstcry.com%2F",
+      "searchUrl": null,
+      "colorCode": "#d553a9"
+    },
+    {
+      "id": "11",
+      "name": "Urbanic",
+      "icon": "store\/11636e24e04faa2.png",
+      "deals_count": 0,
+      "url": "https:\/\/in.urbanic.com\/",
+      "searchUrl": "",
+      "colorCode": ""
+    },
+    {
+      "id": "12",
+      "name": "Infibeam",
+      "icon": "store\/12.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=http%3A\/\/www.infibeam.com\/",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "13",
+      "name": "Ebay",
+      "icon": "store\/13.png",
+      "deals_count": 0,
+      "url": "http:\/\/tracking.vcommission.com\/aff_c?offer_id=1018&aff_id=55764&aff_sub=liteapps",
+      "searchUrl": null,
+      "colorCode": "#e43138"
+    },
+    {
+      "id": "14",
+      "name": "Moglix",
+      "icon": "store\/14.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=liteapps&source=linkkit&url=http%3A\/\/www.moglix.com\/",
+      "searchUrl": null,
+      "colorCode": "#cb5a57"
+    },
+    {
+      "id": "15",
+      "name": "Ali Baba",
+      "icon": "store\/15.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.alibaba.com\/?spm=a2700.7735675.scGlobalHomeHeader.8.1ba863960TOX8w",
+      "searchUrl": "",
+      "colorCode": "#e62e04"
+    },
+    {
+      "id": "16",
+      "name": "Gadgets360",
+      "icon": "store\/16.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=liteapps&source=linkkit&url=https%3A\/\/gadgets360.com\/shop\/",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "17",
+      "name": "Ajio",
+      "icon": "store\/17.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.ajio.com\/",
+      "searchUrl": "",
+      "colorCode": "#2f4254"
+    },
+    {
+      "id": "18",
+      "name": "Tata cliq",
+      "icon": "store\/18.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=liteapps&source=linkkit&url=https%3A%2F%2Fwww.tatacliq.com",
+      "searchUrl": "https:\/\/www.tatacliq.com\/search\/?searchCategory=all&text=%s",
+      "colorCode": "#a9163e"
+    },
+    {
+      "id": "19",
+      "name": "Greendust",
+      "icon": "store\/19.jpg",
+      "deals_count": 0,
+      "url": "http:\/\/tracking.vcommission.com\/aff_c?offer_id=1678&aff_id=55764",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "20",
+      "name": "Mi",
+      "icon": "store\/20.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=http%3A\/\/www.mi.com\/in\/",
+      "searchUrl": null,
+      "colorCode": "#ff4b01"
+    },
+    {
+      "id": "21",
+      "name": "Naaptol",
+      "icon": "store\/21.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=http%3A\/\/www.naaptol.com\/",
+      "searchUrl": null,
+      "colorCode": "#75a3ff"
+    },
+    {
+      "id": "22",
+      "name": "Bestdeal tv",
+      "icon": "store\/22.jpg",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "23",
+      "name": "Amzer",
+      "icon": "store\/23.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=http%3A\/\/www.amzer.co.in\/",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "24",
+      "name": "Hp shopping",
+      "icon": "store\/24.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=http%3A\/\/www.hpshopping.in\/",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "25",
+      "name": "Shop cj",
+      "icon": "store\/25.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=liteapps&source=linkkit&url=http%3A\/\/www.shopcj.com\/mall\/index.htm",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "26",
+      "name": "Adidas",
+      "icon": "store\/26.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=liteapps&source=linkkit&url=http%3A\/\/www.adidas.co.in\/",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "27",
+      "name": "Decathlon",
+      "icon": "store\/27.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=liteapps&source=linkkit&url=http%3A\/\/www.decathlon.in\/",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "28",
+      "name": "Limeroad",
+      "icon": "store\/28.png",
+      "deals_count": 0,
+      "url": "http:\/\/tracking.vcommission.com\/aff_c?offer_id=280&aff_id=55764",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "29",
+      "name": "Fab india",
+      "icon": "store\/29.jpg",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=liteapps&source=linkkit&url=http%3A\/\/www.fabindia.com\/",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "31",
+      "name": "Coolwinks",
+      "icon": "store\/31.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.amazon.in\/coolwinks\/s?k=coolwinks",
+      "searchUrl": "",
+      "colorCode": ""
+    },
+    {
+      "id": "32",
+      "name": "Nykaa",
+      "icon": "store\/32.png",
+      "deals_count": 0,
+      "url": "https:\/\/tracking.vcommission.com\/aff_c?offer_id=232&aff_id=55764&aff_sub=liteapps",
+      "searchUrl": null,
+      "colorCode": "#fd649e"
+    },
+    {
+      "id": "33",
+      "name": "Moms Co",
+      "icon": "store\/33636e21c642e9a.png",
+      "deals_count": 0,
+      "url": "https:\/\/themomsco.com\/",
+      "searchUrl": "",
+      "colorCode": "#000000"
+    },
+    {
+      "id": "34",
+      "name": "Zivame",
+      "icon": "store\/34.png",
+      "deals_count": 0,
+      "url": "http:\/\/tracking.vcommission.com\/aff_c?offer_id=100&aff_id=55764&aff_sub=liteapps",
+      "searchUrl": null,
+      "colorCode": "#eb8080"
+    },
+    {
+      "id": "35",
+      "name": "Clovia",
+      "icon": "store\/35.jpg",
+      "deals_count": 0,
+      "url": "http:\/\/tracking.vcommission.com\/aff_c?offer_id=146&aff_id=55764&aff_sub=liteapps",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "36",
+      "name": "Bata",
+      "icon": "store\/36.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=liteapps&source=linkkit&url=http%3A\/\/www.bata.in",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "37",
+      "name": "Crocs",
+      "icon": "store\/37.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=liteapps&source=linkkit&url=http%3A\/\/www.shopcrocs.in\/",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "38",
+      "name": "Faballey",
+      "icon": "store\/38.jpg",
+      "deals_count": 0,
+      "url": "http:\/\/tracking.vcommission.com\/aff_c?offer_id=28&aff_id=55764",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "39",
+      "name": "Cleartrip",
+      "icon": "store\/39.png",
+      "deals_count": 0,
+      "url": "http:\/\/tracking.vcommission.com\/aff_c?offer_id=2175&aff_id=55764&&aff_sub=liteapps",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "40",
+      "name": "Make my trip",
+      "icon": "store\/40.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=liteapps&source=linkkit&url=https%3A\/\/www.makemytrip.com\/",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "41",
+      "name": "Expedia",
+      "icon": "store\/41.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=http%3A\/\/www.expedia.co.in\/",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "42",
+      "name": "Yatra",
+      "icon": "store\/42.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=https%3A\/\/www.yatra.com\/offer\/dom\/listing\/domestic-flight-deals",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "43",
+      "name": "Oyo rooms",
+      "icon": "store\/43.png",
+      "deals_count": 0,
+      "url": "https:\/\/ekaro.in\/enkr2020021240030026",
+      "searchUrl": "",
+      "colorCode": ""
+    },
+    {
+      "id": "45",
+      "name": "RedBus",
+      "icon": "store\/45.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=https%3A\/\/www.redbus.in\/",
+      "searchUrl": "",
+      "colorCode": ""
+    },
+    {
+      "id": "46",
+      "name": "Agoda",
+      "icon": "store\/46.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=liteapps&source=linkkit&url=http%3A\/\/www.agoda.com\/",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "47",
+      "name": "Freecharge",
+      "icon": "store\/47.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=https%3A\/\/www.freecharge.in\/desktop\/%3Bjsessionid%3DBFEB510C82CA1ADEDDF67673C10767D6",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "49",
+      "name": "Mobikwik",
+      "icon": "store\/49.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=liteapps&source=linkkit&url=https%3A\/\/www.mobikwik.com\/",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "50",
+      "name": "Airtel",
+      "icon": "store\/50.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=http%3A\/\/www.airtel.in\/",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "51",
+      "name": "Baby oye",
+      "icon": "store\/51.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=liteapps&source=linkkit&url=https%3A\/\/www.babyoye.com",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "53",
+      "name": "Hopscotch",
+      "icon": "store\/53.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=https%3A\/\/www.hopscotch.in\/",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "54",
+      "name": "Mylo",
+      "icon": "store\/54636e231fa53b4.png",
+      "deals_count": 0,
+      "url": "https:\/\/mylofamily.com\/category\/mom-care-products-6113",
+      "searchUrl": "",
+      "colorCode": ""
+    },
+    {
+      "id": "55",
+      "name": "Flintobox",
+      "icon": "store\/55.jpg",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=http%3A\/\/flintobox.com\/",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "56",
+      "name": "Quikr",
+      "icon": "store\/56.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=http%3A\/\/www.quikr.com\/",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "57",
+      "name": "Just dial",
+      "icon": "store\/57.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=https%3A\/\/www.justdial.com\/",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "58",
+      "name": "Twitter",
+      "icon": "store\/58.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "59",
+      "name": "Instagram",
+      "icon": "store\/59.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "60",
+      "name": "Quora",
+      "icon": "store\/60.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "61",
+      "name": "Pinterest",
+      "icon": "store\/61.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "63",
+      "name": "Citi bank",
+      "icon": "store\/63.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=https%3A\/\/www.online.citibank.co.in\/",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "64",
+      "name": "Policy bazaar",
+      "icon": "store\/64.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=https%3A\/\/www.policybazaar.com\/",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "65",
+      "name": "Paise bazaar",
+      "icon": "store\/65.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=http%3A\/\/www.paisabazaar.com\/",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "66",
+      "name": "Big basket",
+      "icon": "store\/66.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=https%3A\/\/www.bigbasket.com\/",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "68",
+      "name": "Nature basket",
+      "icon": "store\/68.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=http%3A\/\/www.naturesbasket.co.in\/",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "69",
+      "name": "Patanjali ayurved",
+      "icon": "store\/69.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "70",
+      "name": "Pepperfry",
+      "icon": "store\/70.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=http%3A\/\/www.pepperfry.com\/",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "71",
+      "name": "Fab furnish",
+      "icon": "store\/71.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=http%3A\/\/www.fabfurnish.com\/",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "72",
+      "name": "Urban ladder",
+      "icon": "store\/72.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=https%3A\/\/www.urbanladder.com\/",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "73",
+      "name": "Homeshop 18",
+      "icon": "store\/73.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=http%3A\/\/www.homeshop18.com\/",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "74",
+      "name": "Dominos",
+      "icon": "store\/745d445dde151c8.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=https%3A\/\/pizzaonline.dominos.co.in\/",
+      "searchUrl": "",
+      "colorCode": ""
+    },
+    {
+      "id": "76",
+      "name": "Mcdonald",
+      "icon": "store\/76.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=http%3A\/\/www.mcdonaldsindia.com\/",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "77",
+      "name": "Dunkin donuts",
+      "icon": "store\/775d445e2c6fc59.png",
+      "deals_count": 0,
+      "url": "https:\/\/online.dunkinindia.com\/",
+      "searchUrl": "",
+      "colorCode": ""
+    },
+    {
+      "id": "78",
+      "name": "Faasos",
+      "icon": "store\/785d445df609379.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=https%3A\/\/order.faasos.io",
+      "searchUrl": "",
+      "colorCode": ""
+    },
+    {
+      "id": "79",
+      "name": "Kfc",
+      "icon": "store\/79.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=https%3A\/\/online.kfc.co.in\/",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "80",
+      "name": "Zomato",
+      "icon": "store\/805d445e0b92336.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=https%3A\/\/www.zomato.com\/india",
+      "searchUrl": "",
+      "colorCode": ""
+    },
+    {
+      "id": "81",
+      "name": "Pizza hut",
+      "icon": "store\/815d445e19589fd.png",
+      "deals_count": 0,
+      "url": "https:\/\/online.pizzahut.co.in\/",
+      "searchUrl": "",
+      "colorCode": ""
+    },
+    {
+      "id": "82",
+      "name": "Printland",
+      "icon": "store\/82.png",
+      "deals_count": 0,
+      "url": "http:\/\/tracking.vcommission.com\/aff_c?offer_id=90&aff_id=55764",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "83",
+      "name": "Printvenue",
+      "icon": "store\/83.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=http%3A\/\/www.printvenue.com\/",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "84",
+      "name": "Vista print",
+      "icon": "store\/84.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=http%3A\/\/www.vistaprint.in\/%3FGP%3D2\/7\/2017+6%3A00%3A35+AM%26GPS%3D4264567302%26GNF%3D0",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "85",
+      "name": "PVR Cinemas",
+      "icon": "store\/85.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=http%3A\/\/www.pvrcinemas.com\/",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "86",
+      "name": "Inox",
+      "icon": "store\/86.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=https%3A\/\/www.inoxmovies.com\/Index.aspx",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "87",
+      "name": "Book my show",
+      "icon": "store\/87.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=https%3A\/\/in.bookmyshow.com\/",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "88",
+      "name": "99 acres",
+      "icon": "store\/88.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=http%3A\/\/www.99acres.com\/",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "89",
+      "name": "Common floor",
+      "icon": "store\/89.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=https%3A\/\/www.commonfloor.com\/",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "90",
+      "name": "Housing",
+      "icon": "store\/90.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=https%3A\/\/www.housing.com",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "91",
+      "name": "Magic bricks",
+      "icon": "store\/91.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=https%3A\/\/www.magicbricks.com",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "92",
+      "name": "India property",
+      "icon": "store\/92.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=http%3A\/\/www.indiaproperty.com\/",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "93",
+      "name": "Makaan",
+      "icon": "store\/93.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=http%3A\/\/www.makaan.com",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "94",
+      "name": "Car trade",
+      "icon": "store\/94.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=https%3A\/\/www.cartrade.com\/",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "95",
+      "name": "Car wale",
+      "icon": "store\/95.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=https%3A\/\/www.carwale.com",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "96",
+      "name": "Gaadi",
+      "icon": "store\/96.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=https%3A\/\/www.gaadi.com\/",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "97",
+      "name": "India today",
+      "icon": "store\/97.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=http%3A\/\/subscriptions.intoday.in\/subscriptions\/youthsummit2016\/registration.jsp",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "98",
+      "name": "Jagran josh",
+      "icon": "store\/98.png",
+      "deals_count": 0,
+      "url": "",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "99",
+      "name": "Beardo",
+      "icon": "store\/99.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=http%3A\/\/www.beardo.in\/",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "100",
+      "name": "The body shop",
+      "icon": "store\/100.jpg",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=http%3A\/\/www.thebodyshop.in\/",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "101",
+      "name": "Forest essentials",
+      "icon": "store\/101.jpg",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=http%3A\/\/www.forestessentialsindia.com\/",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "102",
+      "name": "Ustraa",
+      "icon": "store\/102.jpg",
+      "deals_count": 0,
+      "url": "http:\/\/tracking.vcommission.com\/aff_c?offer_id=2009&aff_id=55764&url=http%3A%2F%2Fwww.happilyunmarried.com%2Fustraa%2F%3Futm_campaign%3Dvcommisionoffer%26utm_source%3Daffiliate%26utm_medium%3Dcpa%26utm_content%3Dvcommisionoffer",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "103",
+      "name": "Medlife",
+      "icon": "store\/103.jpg",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=https%3A\/\/m.medlife.com\/",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "104",
+      "name": "Netmeds",
+      "icon": "store\/104.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=http%3A\/\/www.netmeds.com\/",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "105",
+      "name": "Practo",
+      "icon": "store\/105.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.practo.com\/",
+      "searchUrl": "",
+      "colorCode": ""
+    },
+    {
+      "id": "106",
+      "name": "Healthgenie",
+      "icon": "store\/106.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=http%3A\/\/www.healthgenie.in\/",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "107",
+      "name": "1 mg",
+      "icon": "store\/107.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=https%3A\/\/www.1mg.com",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "108",
+      "name": "Housejoy",
+      "icon": "store\/108.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=http%3A\/\/www.housejoy.in\/",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "109",
+      "name": "Urban clap",
+      "icon": "store\/109.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=https%3A\/\/www.urbanclap.com",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "110",
+      "name": "Standard chartered",
+      "icon": "store\/110.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=https%3A\/\/www.sc.com\/en\/",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "111",
+      "name": "Easy policy",
+      "icon": "store\/111.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=https%3A\/\/www.easypolicy.com\/",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "112",
+      "name": "Facebook",
+      "icon": "store\/112.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "113",
+      "name": "Fab hotels",
+      "icon": "store\/113.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=https%3A\/\/www.fabhotels.com\/",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "114",
+      "name": "Hotels.com",
+      "icon": "store\/114.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=http%3A\/\/in.hotels.com\/",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "115",
+      "name": "Treebo hotels",
+      "icon": "store\/115.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=http%3A\/\/www.treebohotels.com\/",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "116",
+      "name": "Travel guru",
+      "icon": "store\/116.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=http%3A\/\/www.travelguru.com\/",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "117",
+      "name": "Ticket goose",
+      "icon": "store\/117.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=http%3A\/\/www.ticketgoose.com\/events\/Generic-page\/tg-generic-best.html",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "118",
+      "name": "Swiggy",
+      "icon": "store\/118.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=http%3A\/\/www.swiggy.com\/",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "119",
+      "name": "Vista rooms",
+      "icon": "store\/119.jpg",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=https%3A\/\/www.vistarooms.com\/",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "121",
+      "name": "Archies",
+      "icon": "store\/121.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=http%3A\/\/www.archiesonline.com\/",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "122",
+      "name": "Art4u",
+      "icon": "store\/122.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=http%3A\/\/www.art4u.com\/",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "123",
+      "name": "Chumbak",
+      "icon": "store\/123.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=http%3A\/\/www.chumbak.com\/",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "124",
+      "name": "Ferns & petals",
+      "icon": "store\/124.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=http%3A\/\/www.fnp.com\/",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "125",
+      "name": "Flabbery",
+      "icon": "store\/125.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=http%3A\/\/www.flaberry.com\/",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "126",
+      "name": "Flower aura",
+      "icon": "store\/126.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=http%3A\/\/www.floweraura.com\/",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "127",
+      "name": "Giftease",
+      "icon": "store\/127.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=http%3A\/\/www.giftease.com\/",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "128",
+      "name": "Giftsmate",
+      "icon": "store\/128.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=http%3A\/\/www.giftsmate.net\/",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "129",
+      "name": "Happily unmarried",
+      "icon": "store\/129.png",
+      "deals_count": 0,
+      "url": "http:\/\/tracking.vcommission.com\/aff_c?offer_id=2009&aff_id=55764",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "130",
+      "name": "Indian gifts portal",
+      "icon": "store\/130.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=http%3A\/\/www.indiangiftsportal.com\/",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "131",
+      "name": "My flower tree",
+      "icon": "store\/131.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=https%3A\/\/www.myflowertree.com\/",
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "381",
+      "name": "Bewakoof",
+      "icon": "store\/381.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=SS2.0Liteapp&source=linkkit&url=http%3A%2F%2Fwww.bewakoof.com%2F",
+      "searchUrl": "",
+      "colorCode": "#f9d33e"
+    },
+    {
+      "id": "382",
+      "name": "Nearbuy",
+      "icon": "store\/382.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=LiteApp&source=linkkit&url=https%3A%2F%2Fwww.nearbuy.com",
+      "searchUrl": null,
+      "colorCode": "#EF534E"
+    },
+    {
+      "id": "383",
+      "name": "Paytm Mall",
+      "icon": "store\/383.png",
+      "deals_count": 0,
+      "url": "https:\/\/clnk.in\/kwWK",
+      "searchUrl": "",
+      "colorCode": "#EF4E28"
+    },
+    {
+      "id": "384",
+      "name": "Cashify",
+      "icon": "store\/384.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=liteapps&source=linkkit&url=https%3A%2F%2Fwww.cashify.in%2F",
+      "searchUrl": null,
+      "colorCode": "05a69e"
+    },
+    {
+      "id": "386",
+      "name": "Cashify",
+      "icon": "store\/386636e212a9131f.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.cashify.in\/",
+      "searchUrl": "",
+      "colorCode": "#c52e3a"
+    },
+    {
+      "id": "387",
+      "name": "NNNow",
+      "icon": "store\/387.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=lite&source=linkkit&url=https%3A%2F%2Fwww.nnnow.com%2F",
+      "searchUrl": null,
+      "colorCode": "#FFFFFF"
+    },
+    {
+      "id": "388",
+      "name": "Piggy",
+      "icon": "store\/388.png",
+      "deals_count": 0,
+      "url": "",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "389",
+      "name": "Flights",
+      "icon": "store\/3895d73fede0474c.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=ss2.0travel&source=linkkit&url=https%3A\/\/www.makemytrip.com\/",
+      "searchUrl": "",
+      "colorCode": ""
+    },
+    {
+      "id": "390",
+      "name": "Oven Story",
+      "icon": "store\/390.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?cid=12944&subid=ovens2&source=linkkit&url=https%3A%2F%2Fwww.ovenstory.in%2F",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "391",
+      "name": "Fresh Menu",
+      "icon": "store\/391.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?cid=12944&subid=fresh3&source=linkkit&url=https%3A%2F%2Fwww.freshmenu.com%2F",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "392",
+      "name": "Burger King",
+      "icon": "store\/392.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?cid=12944&subid=BK4&source=linkkit&url=https%3A%2F%2Fwww.bk.com%2F",
+      "searchUrl": "",
+      "colorCode": ""
+    },
+    {
+      "id": "393",
+      "name": "Uber Eats",
+      "icon": "store\/393.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?cid=12944&subid=UE5&source=linkkit&url=https%3A%2F%2Fwww.ubereats.com%2Fen-IN%2F",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "394",
+      "name": "Inner Chef",
+      "icon": "store\/394.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?cid=12944&subid=Inchef6&source=linkkit&url=https%3A%2F%2Fwww.innerchef.com%2F",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "395",
+      "name": "Behrouz Biryani",
+      "icon": "store\/395.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?cid=12944&subid=Birya7&source=linkkit&url=https%3A%2F%2Fwww.behrouzbiryani.com%2F",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "396",
+      "name": "Food Cloud",
+      "icon": "store\/396.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?cid=12944&subid=foodc8&source=linkkit&url=https%3A%2F%2Fwww.foodcloud.in%2F",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "397",
+      "name": "Box8",
+      "icon": "store\/397.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?cid=12944&subid=box8.8&source=linkkit&url=https%3A%2F%2Fbox8.in%2F",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "398",
+      "name": "Mojo Pizza",
+      "icon": "store\/398.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?cid=12944&subid=mojo9&source=linkkit&url=https%3A%2F%2Fmojopizza.in%2F",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "399",
+      "name": "Mad Over Donuts",
+      "icon": "store\/399.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?cid=12944&subid=MOD10&source=linkkit&url=https%3A%2F%2Fmoddelivery.in%2Forder-online%2F",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "400",
+      "name": "Cure Fit",
+      "icon": "store\/400.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?cid=12944&subid=cure11&source=linkkit&url=https%3A%2F%2Fwww.cure.fit%2Feat",
+      "searchUrl": "",
+      "colorCode": ""
+    },
+    {
+      "id": "401",
+      "name": "Firangi Bake",
+      "icon": "store\/401.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?cid=12944&subid=bake12&source=linkkit&url=https%3A%2F%2Fwww.firangibake.com%2F",
+      "searchUrl": "",
+      "colorCode": ""
+    },
+    {
+      "id": "402",
+      "name": "Being Chef",
+      "icon": "store\/402.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?cid=12944&subid=chef13&source=linkkit&url=https%3A%2F%2Fwww.beingchef.com%2F",
+      "searchUrl": "",
+      "colorCode": ""
+    },
+    {
+      "id": "403",
+      "name": "Star Quik",
+      "icon": "store\/403.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?cid=12944&subid=starq14&source=linkkit&url=https%3A%2F%2Fwww.starquik.com%2F",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "404",
+      "name": "Licious",
+      "icon": "store\/404.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?cid=12944&subid=lic15&source=linkkit&url=https%3A%2F%2Fwww.licious.in%2F",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "405",
+      "name": "Big Basket",
+      "icon": "store\/405.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?cid=12944&subid=BB16&source=linkkit&url=https%3A%2F%2Fwww.bigbasket.com%2F",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "406",
+      "name": "Sri Sri Tattva",
+      "icon": "store\/406.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?cid=12944&subid=SST17&source=linkkit&url=https%3A%2F%2Fwww.srisritattva.com%2Fen%2F",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "407",
+      "name": "MTR Ready to Eat",
+      "icon": "store\/407.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?cid=12944&subid=mtr18&source=linkkit&url=https%3A%2F%2Fshop.mtrfoods.com%2F",
+      "searchUrl": "",
+      "colorCode": ""
+    },
+    {
+      "id": "408",
+      "name": "Grofers",
+      "icon": "store\/408.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?cid=12944&subid=Gr19&source=linkkit&url=https%3A%2F%2Fgrofers.com%2F",
+      "searchUrl": "",
+      "colorCode": ""
+    },
+    {
+      "id": "409",
+      "name": "Easyday Club",
+      "icon": "store\/409.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?cid=12944&subid=easy20&source=linkkit&url=https%3A%2F%2Fwww.easyday.in%2F",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "410",
+      "name": "FreshToHome",
+      "icon": "store\/410.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?cid=12944&subid=fresh21&source=linkkit&url=https%3A%2F%2Fwww.freshtohome.com%2F",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "411",
+      "name": "Rail Yatri",
+      "icon": "store\/411.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?cid=12944&subid=railfood22&source=linkkit&url=https%3A%2F%2Fwww.railyatri.in%2Fbuy-food-in-train",
+      "searchUrl": "",
+      "colorCode": ""
+    },
+    {
+      "id": "412",
+      "name": "Mama Earth",
+      "icon": "store\/412623b4401737b2.jpeg",
+      "deals_count": 0,
+      "url": "https:\/\/ekaro.in\/enkr20220322s9551931",
+      "searchUrl": "https:\/\/ekaro.in\/enkr20220322s9551931",
+      "colorCode": ""
+    },
+    {
+      "id": "413",
+      "name": "Cabs",
+      "icon": "store\/4135d7408c326846.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?cid=12944&subid=SSola&source=linkkit&url=https%3A%2F%2Fwww.olacabs.com%2F",
+      "searchUrl": "",
+      "colorCode": ""
+    },
+    {
+      "id": "414",
+      "name": "Outstation Taxi",
+      "icon": "store\/414.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?cid=12944&subid=SSsavaari&source=linkkit&url=https%3A%2F%2Fwww.savaari.com%2F",
+      "searchUrl": "",
+      "colorCode": ""
+    },
+    {
+      "id": "415",
+      "name": "Bus",
+      "icon": "store\/415.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?cid=12944&subid=SSbus&source=linkkit&url=https%3A%2F%2Fwww.makemytrip.com%2Fbus-tickets%2F",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "416",
+      "name": "Netflix",
+      "icon": "store\/416.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?cid=12944&subid=SSnetflix&source=linkkit&url=https%3A%2F%2Fwww.netflix.com%2Fin%2F",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "417",
+      "name": "Hotstar",
+      "icon": "store\/417.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?cid=12944&subid=SShotstar&source=linkkit&url=https%3A%2F%2Fwww.hotstar.com%2F",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "418",
+      "name": "Zee5",
+      "icon": "store\/418.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?cid=12944&subid=SSzee5&source=linkkit&url=https%3A%2F%2Fwww.zee5.com%2F",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "419",
+      "name": "Voot",
+      "icon": "store\/419.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?cid=12944&subid=SSvoot&source=linkkit&url=https%3A%2F%2Fwww.voot.com%2F",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "420",
+      "name": "YouTube",
+      "icon": "store\/420.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?cid=12944&subid=SSyoutube&source=linkkit&url=https%3A%2F%2Fwww.youtube.com%2F",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "421",
+      "name": "SonyLIV",
+      "icon": "store\/421.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?cid=12944&subid=SSsonyliv&source=linkkit&url=https%3A%2F%2Fwww.sonyliv.com%2F",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "422",
+      "name": "Train Ticket",
+      "icon": "store\/422.png",
+      "deals_count": 0,
+      "url": "https:\/\/clnk.in\/jxr8",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "423",
+      "name": "PNR Status",
+      "icon": "store\/423.png",
+      "deals_count": 0,
+      "url": "https:\/\/clnk.in\/jxsa",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "424",
+      "name": "Live Train Status",
+      "icon": "store\/424.png",
+      "deals_count": 0,
+      "url": "https:\/\/clnk.in\/jxsb",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "425",
+      "name": "Cricbuzz",
+      "icon": "store\/425.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.cricbuzz.com\/",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "426",
+      "name": "NDTV",
+      "icon": "store\/426.jpg",
+      "deals_count": 0,
+      "url": "https:\/\/sports.ndtv.com\/",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "427",
+      "name": "SonyLIV",
+      "icon": "store\/427.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.sonyliv.com\/custompage\/cricket_page",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "428",
+      "name": "Vedantu",
+      "icon": "store\/428.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.vedantu.com\/",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "429",
+      "name": "Collegedunia",
+      "icon": "store\/429.png",
+      "deals_count": 0,
+      "url": "https:\/\/collegedunia.com\/",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "430",
+      "name": "India Today",
+      "icon": "store\/430.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.indiatoday.in\/india",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "431",
+      "name": "Aaj Tak",
+      "icon": "store\/431.png",
+      "deals_count": 0,
+      "url": "https:\/\/aajtak.intoday.in\/",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "432",
+      "name": "NDTV",
+      "icon": "store\/432.jpg",
+      "deals_count": 0,
+      "url": "https:\/\/www.ndtv.com\/",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "433",
+      "name": "PayPal",
+      "icon": "store\/433.png",
+      "deals_count": 0,
+      "url": "https:\/\/linksredirect.com\/?cid=12944&subid=SSpaypal&source=linkkit&url=https%3A%2F%2Fwww.paypal.com",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "519",
+      "name": "Flickstree",
+      "icon": "store\/519.png",
+      "deals_count": 0,
+      "url": "https:\/\/api.flickstree.com\/video_commerce\/user\/products.php?partner=com.smartshopper&type=buyer",
+      "searchUrl": null,
+      "colorCode": ""
+    }
+  ],
+  "deals_categories": [
+    {
+      "id": "14",
+      "name": "Travel",
+      "icon": "deals\/category\/14.png",
+      "deals_count": 0
+    },
+    {
+      "id": "4",
+      "name": "Fashion",
+      "icon": "deals\/category\/4.png",
+      "deals_count": 0
+    },
+    {
+      "id": "7",
+      "name": "Electronics",
+      "icon": "deals\/category\/7.png",
+      "deals_count": 0
+    },
+    {
+      "id": "10",
+      "name": "Food & Grocery",
+      "icon": "deals\/category\/10.png",
+      "deals_count": 0
+    },
+    {
+      "id": "9",
+      "name": "Flowers & Gifts",
+      "icon": "deals\/category\/9.png",
+      "deals_count": 0
+    },
+    {
+      "id": "11",
+      "name": "Health & Beauty",
+      "icon": "deals\/category\/11.png",
+      "deals_count": 0
+    },
+    {
+      "id": "12",
+      "name": "Home & Kitchen",
+      "icon": "deals\/category\/12.png",
+      "deals_count": 0
+    },
+    {
+      "id": "15",
+      "name": "Miscellaneous",
+      "icon": "deals\/category\/15.png",
+      "deals_count": 0
+    },
+    {
+      "id": "5",
+      "name": "Baby & Kids",
+      "icon": "deals\/category\/5.png",
+      "deals_count": 0
+    },
+    {
+      "id": "6",
+      "name": "Books",
+      "icon": "deals\/category\/6.png",
+      "deals_count": 0
+    },
+    {
+      "id": "13",
+      "name": "Recharge",
+      "icon": "deals\/category\/13.png",
+      "deals_count": 0
+    },
+    {
+      "id": "8",
+      "name": "Finance",
+      "icon": "deals\/category\/8.png",
+      "deals_count": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": "2",
+      "name": "Deal of the Day",
+      "icon": "category\/25d7bcd85eca2c.png",
+      "stores": [
+        {
+          "id": "2",
+          "name": "Flipkart",
+          "url": "https:\/\/www.flipkart.com\/",
+          "oneLiner": "",
+          "icon": "store\/25ac61b9ea6646.png",
+          "ccPhoneNumber": "1800 208 9898",
+          "ccEmail": "cs@flipkart.com",
+          "saleTransactionUrl": "https:\/\/www.flipkart.com\/rv\/orderConfirmation"
+        },
+        {
+          "id": "1",
+          "name": "Amazon",
+          "url": "https:\/\/www.amazon.in\/gp\/goldbox\/ref=as_li_ss_tl?ie=UTF8&linkCode=ll2&tag=dealsoftheday3.0-21&linkId=b4564110de8be8220b911238c13b7ed5",
+          "oneLiner": "",
+          "icon": "store\/1608bde24209b1.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "5",
+          "name": "Myntra",
+          "url": "https:\/\/www.myntra.com\/deal-of-the-day",
+          "oneLiner": "",
+          "icon": "store\/55a0966c295c17.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "412",
+          "name": "Mama Earth",
+          "url": "https:\/\/ekaro.in\/enkr20221111s17579744",
+          "oneLiner": "",
+          "icon": "store\/412623b4401737b2.jpeg",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "17",
+          "name": "Ajio",
+          "url": "https:\/\/www.ajio.com\/",
+          "oneLiner": "",
+          "icon": "store\/17.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "387",
+          "name": "NNNow",
+          "url": "https:\/\/www.nnnow.com\/offers",
+          "oneLiner": "",
+          "icon": "store\/387.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "4",
+          "name": "Snapdeal",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=deals&source=linkkit&url=https%3A%2F%2Fwww.snapdeal.com%2Foffers%2Fdeal-of-the-day",
+          "oneLiner": "",
+          "icon": "store\/45a8a83bee8ac6.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "3",
+          "name": "Shopclues",
+          "url": "https:\/\/flickstree.g2afse.com\/click?pid=5&offer_id=54",
+          "oneLiner": "",
+          "icon": "store\/35a8983ec33b2f.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "6",
+          "name": "Meesho",
+          "url": "https:\/\/ekaro.in\/enkr2020021240030127",
+          "oneLiner": "",
+          "icon": "store\/6636e20904c30e.jpeg",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "10",
+          "name": "Firstcry",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=dealoftheday3.0&source=linkkit&url=http%3A\/\/www.firstcry.com\/offers%3Fref2%3Dmenu_dd_cat_offers",
+          "oneLiner": "",
+          "icon": "store\/10.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "12",
+          "name": "Infibeam",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=dealoftheday3.0&source=linkkit&url=http%3A\/\/www.infibeam.com\/offers",
+          "oneLiner": "",
+          "icon": "store\/12.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "13",
+          "name": "Ebay",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=dealoftheday3.0&source=linkkit&url=http%3A\/\/www.ebay.in\/rpp\/deals",
+          "oneLiner": "",
+          "icon": "store\/13.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "14",
+          "name": "Moglix",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=ss3.0dealoftheday&source=linkkit&url=http%3A\/\/www.moglix.com\/deals",
+          "oneLiner": "",
+          "icon": "store\/14.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "15",
+          "name": "Ali Baba",
+          "url": "https:\/\/www.alibaba.com\/showroom\/deal-day.html",
+          "oneLiner": "",
+          "icon": "store\/15.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "16",
+          "name": "Gadgets360",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=dealoftheday&source=linkkit&url=https%3A\/\/gadgets360.com\/shop\/handpicked",
+          "oneLiner": "",
+          "icon": "store\/16.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        }
+      ],
+      "carousels": [
+        {
+          "image": "carousels\/category\/18.png",
+          "url": "https:\/\/amzn.to\/2Ay92Nf",
+          "fallbackUrl": "https:\/\/amzn.to\/2Ay92Nf",
+          "caption": ""
+        },
+        {
+          "image": "carousels\/category\/10.jpg",
+          "url": "http:\/\/fkrt.it\/PL98uTuuuN",
+          "fallbackUrl": "http:\/\/fkrt.it\/PL98uTuuuN",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "name": "Top Stores",
+      "icon": "category\/15d7bcd9184c0b.png",
+      "stores": [
+        {
+          "id": "2",
+          "name": "Flipkart",
+          "url": "https:\/\/fktr.in\/g8qb0oB",
+          "oneLiner": "best online shopping store",
+          "icon": "store\/25ac61b9ea6646.png",
+          "ccPhoneNumber": "1800 208 9898",
+          "ccEmail": "cs@flipkart.com",
+          "saleTransactionUrl": "https:\/\/www.flipkart.com\/rv\/orderConfirmation"
+        },
+        {
+          "id": "1",
+          "name": "Amazon",
+          "url": "https:\/\/www.amazon.in\/?&_encoding=UTF8&tag=liteapps-21&linkCode=ur2&linkId=ce63e29d0dac44db10bc9263ab8486e7&camp=3638&creative=24630",
+          "oneLiner": "",
+          "icon": "store\/1608bde24209b1.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "5",
+          "name": "Myntra",
+          "url": "https:\/\/myntr.it\/CY7CFWP",
+          "oneLiner": "",
+          "icon": "store\/55a0966c295c17.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "15",
+          "name": "Ali Baba",
+          "url": "https:\/\/www.alibaba.com\/?spm=a2700.7735675.scGlobalHomeHeader.8.1ba863960TOX8w",
+          "oneLiner": "",
+          "icon": "store\/15.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "17",
+          "name": "Ajio",
+          "url": "https:\/\/ajiio.in\/6W450mF",
+          "oneLiner": "",
+          "icon": "store\/17.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "3",
+          "name": "Shopclues",
+          "url": "https:\/\/clnk.in\/szFF",
+          "oneLiner": "",
+          "icon": "store\/35a8983ec33b2f.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "6",
+          "name": "Meesho",
+          "url": "https:\/\/www.meesho.com\/affiliate_collection\/facet_collection\/82330?&af_xp=custom&product_id={product_id}&collection_name=affiliate_collection&af_force_deeplink=true&host_internal=single_collection&pwsvid=66effa3d05e83b038ce46b95&pid=paisawapas_int&is_retargeting=true&af_click_lookback=1d&product_name=product&utm_source=extrape&utm_medium=telegram&collection_id=82330&external_product_id={external_product_id}&utm_campaign=extrape_EPTG1768212_w08HkH&clickid=66effa3d05e83b038ce46b95-WEB--AIOS-1768212&web_view_url=https:\/\/www.meesho.com\/affiliate_collection\/facet_collection\/82330?&af_reengagement_window=1d&af_deeplink=true&af_siteid=extrape&c=extrape_EPTG1768212_w08HkH",
+          "oneLiner": "",
+          "icon": "store\/6636e20904c30e.jpeg",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "4",
+          "name": "Snapdeal",
+          "url": "https:\/\/clnk.in\/szFE",
+          "oneLiner": "",
+          "icon": "store\/45a8a83bee8ac6.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "412",
+          "name": "Mama Earth",
+          "url": "https:\/\/bitli.in\/587agCy",
+          "oneLiner": "",
+          "icon": "store\/412623b4401737b2.jpeg",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "18",
+          "name": "Tata cliq",
+          "url": "http:\/\/clnk.in\/e6cB",
+          "oneLiner": "",
+          "icon": "store\/18.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "28",
+          "name": "Limeroad",
+          "url": "https:\/\/www.flipkart.com\/",
+          "oneLiner": "",
+          "icon": "store\/28.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "32",
+          "name": "Nykaa",
+          "url": "https:\/\/bitli.in\/kHwRTcX",
+          "oneLiner": "",
+          "icon": "store\/32.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "381",
+          "name": "Bewakoof",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=SS2.0&source=linkkit&url=http%3A%2F%2Fwww.bewakoof.com%2F",
+          "oneLiner": "",
+          "icon": "store\/381.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "9",
+          "name": "Paytm",
+          "url": "https:\/\/linksredirect.com\/?cid=12944&subid=SSpaytm&source=linkkit&url=https%3A%2F%2Fpaytm.com%2F",
+          "oneLiner": "",
+          "icon": "store\/9.jpg",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "383",
+          "name": "Paytm Mall",
+          "url": "https:\/\/clnk.in\/kwWK",
+          "oneLiner": "",
+          "icon": "store\/383.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "386",
+          "name": "Cashify",
+          "url": "https:\/\/www.cashify.in\/",
+          "oneLiner": "",
+          "icon": "store\/386636e212a9131f.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "382",
+          "name": "Nearbuy",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=topstores&source=linkkit&url=https%3A%2F%2Fwww.nearbuy.com",
+          "oneLiner": "",
+          "icon": "store\/382.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "33",
+          "name": "Moms Co",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=topstores&source=linkkit&url=https%3A%2F%2Fwww.voonik.com%2F",
+          "oneLiner": "",
+          "icon": "store\/33636e21c642e9a.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "14",
+          "name": "Moglix",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=topstores&source=linkkit&url=https%3A%2F%2Fwww.moglix.com%2F",
+          "oneLiner": "",
+          "icon": "store\/14.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "8",
+          "name": "Olx",
+          "url": "https:\/\/www.olx.in\/",
+          "oneLiner": "",
+          "icon": "store\/8.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "388",
+          "name": "Piggy",
+          "url": "https:\/\/www.piggy.co.in\/claim\/?utm_source=shoprstp&utm_medium=app&utm_campaign=ref500",
+          "oneLiner": "",
+          "icon": "store\/388.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "7",
+          "name": "Lenskart",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=SS3.0&source=linkkit&url=http%3A%2F%2Fwww.lenskart.com%2F",
+          "oneLiner": "",
+          "icon": "store\/7.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "10",
+          "name": "Firstcry",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=liteapps&source=linkkit&url=http%3A%2F%2Fwww.firstcry.com%2F",
+          "oneLiner": "",
+          "icon": "store\/10.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "54",
+          "name": "Mylo",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=liteapps&source=linkkit&url=http%3A\/\/www.momandbabyshop.com\/",
+          "oneLiner": "",
+          "icon": "store\/54636e231fa53b4.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "53",
+          "name": "Hopscotch",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=https%3A\/\/www.hopscotch.in\/",
+          "oneLiner": "",
+          "icon": "store\/53.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "26",
+          "name": "Adidas",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=liteapps&source=linkkit&url=http%3A\/\/www.adidas.co.in\/",
+          "oneLiner": "",
+          "icon": "store\/26.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "27",
+          "name": "Decathlon",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=liteapps&source=linkkit&url=http%3A\/\/www.decathlon.in\/",
+          "oneLiner": "",
+          "icon": "store\/27.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "29",
+          "name": "Fab india",
+          "url": "https:\/\/linksredirect.com\/?cid=12944&subid=SSfabin&source=linkkit&url=https%3A%2F%2Fwww.fabindia.com%2F",
+          "oneLiner": "",
+          "icon": "store\/29.jpg",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "34",
+          "name": "Zivame",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=SS3.0OLD&source=linkkit&url=http%3A%2F%2Fwww.zivame.com%2F",
+          "oneLiner": "",
+          "icon": "store\/34.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "35",
+          "name": "Clovia",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=SS3.0OLD&source=linkkit&url=https%3A%2F%2Fwww.clovia.com%2F",
+          "oneLiner": "",
+          "icon": "store\/35.jpg",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "36",
+          "name": "Bata",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=nudimess2.0shoes&source=linkkit&url=http%3A\/\/www.bata.in",
+          "oneLiner": "",
+          "icon": "store\/36.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "37",
+          "name": "Crocs",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=nudimess2.0shoes&source=linkkit&url=http%3A\/\/www.shopcrocs.in\/",
+          "oneLiner": "",
+          "icon": "store\/37.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "387",
+          "name": "NNNow",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=topstores&source=linkkit&url=https%3A%2F%2Fwww.nnnow.com%2F",
+          "oneLiner": "",
+          "icon": "store\/387.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "31",
+          "name": "Coolwinks",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=ss2.0men&source=linkkit&url=https%3A\/\/www.coolwinks.com\/",
+          "oneLiner": "",
+          "icon": "store\/31.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "11",
+          "name": "Urbanic",
+          "url": "https:\/\/linksredirect.com\/?cid=12944&subid=SSfashion&you&source=linkkit&url=https%3A%2F%2Ffashionandyou.com%2F",
+          "oneLiner": "",
+          "icon": "store\/11636e24e04faa2.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        }
+      ],
+      "carousels": [
+        {
+          "image": "carousels\/category\/24.png",
+          "url": "https:\/\/api.flickstree.com\/video_commerce\/user\/products.php?partner=com.smartshopper&type=buyer",
+          "fallbackUrl": "https:\/\/api.flickstree.com\/video_commerce\/user\/products.php?partner=com.smartshopper&type=buyer",
+          "caption": ""
+        },
+        {
+          "image": "carousels\/category\/25.jpeg",
+          "url": "https:\/\/clnk.in\/kwWK",
+          "fallbackUrl": "https:\/\/clnk.in\/kwWK",
+          "caption": "Get the best on Paytm Mall"
+        },
+        {
+          "image": "carousels\/category\/23.png",
+          "url": "https:\/\/linksredirect.com\/?cid=12944&source=linkkit&url=https%3A%2F%2Fwww.flipkart.com%2F",
+          "fallbackUrl": "https:\/\/linksredirect.com\/?cid=12944&source=linkkit&url=https%3A%2F%2Fwww.flipkart.com%2F",
+          "caption": ""
+        },
+        {
+          "image": "carousels\/category\/21.png",
+          "url": "https:\/\/linksredirect.com\/?cid=12944&subid=Toppaytm&source=linkkit&url=https%3A%2F%2Fpaytmmall.com%2F",
+          "fallbackUrl": "https:\/\/linksredirect.com\/?cid=12944&subid=Toppaytm&source=linkkit&url=https%3A%2F%2Fpaytmmall.com%2F",
+          "caption": ""
+        },
+        {
+          "image": "carousels\/category\/20.png",
+          "url": "https:\/\/linksredirect.com\/?cid=12944&subid=Topcrocs&source=linkkit&url=https%3A%2F%2Fwww.crocs.com%2F",
+          "fallbackUrl": "https:\/\/linksredirect.com\/?cid=12944&subid=Topcrocs&source=linkkit&url=https%3A%2F%2Fwww.crocs.com%2F",
+          "caption": ""
+        },
+        {
+          "image": "carousels\/category\/7.jpg",
+          "url": "https:\/\/goo.gl\/J9SovE",
+          "fallbackUrl": "https:\/\/goo.gl\/J9SovE",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Recharge & Bills",
+      "icon": "category\/85d7bcd9c651af.png",
+      "stores": [
+        {
+          "id": "9",
+          "name": "Paytm",
+          "url": "https:\/\/linksredirect.com\/?cid=12944&subid=SSptm&source=linkkit&url=https%3A%2F%2Fpaytm.com%2F",
+          "oneLiner": "",
+          "icon": "store\/9.jpg",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "47",
+          "name": "Freecharge",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=ss2.0recharge&source=linkkit&url=https%3A\/\/www.freecharge.in",
+          "oneLiner": "",
+          "icon": "store\/47.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "49",
+          "name": "Mobikwik",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=ss2.0recharge&source=linkkit&url=https%3A\/\/www.mobikwik.com\/",
+          "oneLiner": "",
+          "icon": "store\/49.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "50",
+          "name": "Airtel",
+          "url": "https:\/\/www.airtel.in\/prepaid-recharge\/?icid=prepaid_row_1_column_1",
+          "oneLiner": "",
+          "icon": "store\/50.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "433",
+          "name": "PayPal",
+          "url": "https:\/\/linksredirect.com\/?cid=12944&subid=SSpaypal&source=linkkit&url=https%3A%2F%2Fwww.paypal.com",
+          "oneLiner": "",
+          "icon": "store\/433.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "name": "Food",
+      "icon": "category\/165d7be58c3d661.png",
+      "stores": [
+        {
+          "id": "80",
+          "name": "Zomato",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=https%3A\/\/www.zomato.com\/india",
+          "oneLiner": "",
+          "icon": "store\/805d445e0b92336.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "118",
+          "name": "Swiggy",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=ss2.0food&source=linkkit&url=https%3A\/\/www.swiggy.com\/",
+          "oneLiner": "",
+          "icon": "store\/118.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "74",
+          "name": "Dominos",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=ss2.0food&source=linkkit&url=https%3A\/\/pizzaonline.dominos.co.in\/%3Fsrc%3Dbrand",
+          "oneLiner": "",
+          "icon": "store\/745d445dde151c8.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "391",
+          "name": "Fresh Menu",
+          "url": "https:\/\/linksredirect.com\/?cid=12944&subid=fresh3&source=linkkit&url=https%3A%2F%2Fwww.freshmenu.com%2F",
+          "oneLiner": "",
+          "icon": "store\/391.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "393",
+          "name": "Uber Eats",
+          "url": "https:\/\/linksredirect.com\/?cid=12944&subid=UE5&source=linkkit&url=https%3A%2F%2Fwww.ubereats.com%2Fen-IN%2F",
+          "oneLiner": "",
+          "icon": "store\/393.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "76",
+          "name": "Mcdonald",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=ss2.0food&source=linkkit&url=https%3A\/\/www.mcdelivery.co.in\/",
+          "oneLiner": "",
+          "icon": "store\/76.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "392",
+          "name": "Burger King",
+          "url": "http:\/\/www.burgerkingindia.in\/menu",
+          "oneLiner": "",
+          "icon": "store\/392.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "77",
+          "name": "Dunkin donuts",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=ss2.0food&source=linkkit&url=http%3A\/\/www.dunkinindia.com\/",
+          "oneLiner": "",
+          "icon": "store\/775d445e2c6fc59.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "397",
+          "name": "Box8",
+          "url": "https:\/\/linksredirect.com\/?cid=12944&subid=box8.8&source=linkkit&url=https%3A%2F%2Fbox8.in%2F",
+          "oneLiner": "",
+          "icon": "store\/397.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "79",
+          "name": "Kfc",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=ss2.0food&source=linkkit&url=https%3A\/\/online.kfc.co.in\/",
+          "oneLiner": "",
+          "icon": "store\/79.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "78",
+          "name": "Faasos",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=ss2.0food&source=linkkit&url=https%3A\/\/www.faasos.com\/",
+          "oneLiner": "",
+          "icon": "store\/785d445df609379.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "398",
+          "name": "Mojo Pizza",
+          "url": "https:\/\/linksredirect.com\/?cid=12944&subid=mojo9&source=linkkit&url=https%3A%2F%2Fmojopizza.in%2F",
+          "oneLiner": "",
+          "icon": "store\/398.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "390",
+          "name": "Oven Story",
+          "url": "https:\/\/linksredirect.com\/?cid=12944&subid=ovens2&source=linkkit&url=https%3A%2F%2Fwww.ovenstory.in%2F",
+          "oneLiner": "",
+          "icon": "store\/390.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "402",
+          "name": "Being Chef",
+          "url": "https:\/\/linksredirect.com\/?cid=12944&subid=chef13&source=linkkit&url=https%3A%2F%2Fwww.beingchef.com%2F",
+          "oneLiner": "",
+          "icon": "store\/402.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "401",
+          "name": "Firangi Bake",
+          "url": "https:\/\/linksredirect.com\/?cid=12944&subid=bake12&source=linkkit&url=https%3A%2F%2Fwww.firangibake.com%2F",
+          "oneLiner": "",
+          "icon": "store\/401.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "400",
+          "name": "Cure Fit",
+          "url": "https:\/\/linksredirect.com\/?cid=12944&subid=cure11&source=linkkit&url=https%3A%2F%2Fwww.cure.fit%2Feat",
+          "oneLiner": "",
+          "icon": "store\/400.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "399",
+          "name": "Mad Over Donuts",
+          "url": "https:\/\/linksredirect.com\/?cid=12944&subid=MOD10&source=linkkit&url=https%3A%2F%2Fmoddelivery.in%2Forder-online%2F",
+          "oneLiner": "",
+          "icon": "store\/399.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "396",
+          "name": "Food Cloud",
+          "url": "https:\/\/linksredirect.com\/?cid=12944&subid=foodc8&source=linkkit&url=https%3A%2F%2Fwww.foodcloud.in%2F",
+          "oneLiner": "",
+          "icon": "store\/396.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "395",
+          "name": "Behrouz Biryani",
+          "url": "https:\/\/linksredirect.com\/?cid=12944&subid=Birya7&source=linkkit&url=https%3A%2F%2Fwww.behrouzbiryani.com%2F",
+          "oneLiner": "",
+          "icon": "store\/395.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "394",
+          "name": "Inner Chef",
+          "url": "https:\/\/linksredirect.com\/?cid=12944&subid=Inchef6&source=linkkit&url=https%3A%2F%2Fwww.innerchef.com%2F",
+          "oneLiner": "",
+          "icon": "store\/394.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Flights, Hotels & Cabs",
+      "icon": "category\/75d7bd3ac73626.png",
+      "stores": [
+        {
+          "id": "413",
+          "name": "Cabs",
+          "url": "https:\/\/linksredirect.com\/?cid=12944&subid=SSola&source=linkkit&url=https%3A%2F%2Fwww.olacabs.com%2F",
+          "oneLiner": "",
+          "icon": "store\/4135d7408c326846.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "414",
+          "name": "Outstation Taxi",
+          "url": "https:\/\/linksredirect.com\/?cid=12944&subid=SSsavaari&source=linkkit&url=https%3A%2F%2Fwww.savaari.com%2F",
+          "oneLiner": "",
+          "icon": "store\/414.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "45",
+          "name": "RedBus",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=ss2.0travel&source=linkkit&url=https%3A\/\/www.redbus.in\/info\/OfferTerms",
+          "oneLiner": "",
+          "icon": "store\/45.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "40",
+          "name": "Make my trip",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=ss2.0travel&source=linkkit&url=https%3A\/\/www.makemytrip.com\/",
+          "oneLiner": "",
+          "icon": "store\/40.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "39",
+          "name": "Cleartrip",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=ss2.0travel&source=linkkit&url=https%3A\/\/www.cleartrip.com\/",
+          "oneLiner": "",
+          "icon": "store\/39.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "41",
+          "name": "Expedia",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=ss2.0travel&source=linkkit&url=https%3A\/\/www.expedia.co.in\/",
+          "oneLiner": "",
+          "icon": "store\/41.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "42",
+          "name": "Yatra",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=ss2.0travel&source=linkkit&url=https%3A\/\/www.yatra.com\/",
+          "oneLiner": "",
+          "icon": "store\/42.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "43",
+          "name": "Oyo rooms",
+          "url": "https:\/\/ekaro.in\/enkr2020021240030026",
+          "oneLiner": "",
+          "icon": "store\/43.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "46",
+          "name": "Agoda",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=ss2.0travel&source=linkkit&url=http%3A\/\/www.agoda.com\/",
+          "oneLiner": "",
+          "icon": "store\/46.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "114",
+          "name": "Hotels.com",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=ss2.0travel&source=linkkit&url=http%3A\/\/in.hotels.com\/",
+          "oneLiner": "",
+          "icon": "store\/114.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "115",
+          "name": "Treebo hotels",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=ss2.0travel&source=linkkit&url=http%3A\/\/www.treebohotels.com\/",
+          "oneLiner": "",
+          "icon": "store\/115.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "116",
+          "name": "Travel guru",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=ss2.0travel&source=linkkit&url=http%3A\/\/www.travelguru.com\/",
+          "oneLiner": "",
+          "icon": "store\/116.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "119",
+          "name": "Vista rooms",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=ss2.0travel&source=linkkit&url=https%3A\/\/www.vistarooms.com\/",
+          "oneLiner": "",
+          "icon": "store\/119.jpg",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "117",
+          "name": "Ticket goose",
+          "url": "https:\/\/www.ticketgoose.com\/",
+          "oneLiner": "",
+          "icon": "store\/117.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "name": "Grocery",
+      "icon": "category\/135d7bdcc8912b0.png",
+      "stores": [
+        {
+          "id": "66",
+          "name": "Big basket",
+          "url": "https:\/\/linksredirect.com\/?cid=12944&subid=SSbb&source=linkkit&url=https%3A%2F%2Fwww.bigbasket.com%2F",
+          "oneLiner": "",
+          "icon": "store\/66.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "408",
+          "name": "Grofers",
+          "url": "https:\/\/linksredirect.com\/?cid=12944&subid=SSgrofers&source=linkkit&url=https%3A%2F%2Fgrofers.com%2F",
+          "oneLiner": "",
+          "icon": "store\/408.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "69",
+          "name": "Patanjali ayurved",
+          "url": "https:\/\/linksredirect.com\/?cid=12944&subid=SSpa&source=linkkit&url=https%3A%2F%2Fwww.patanjaliayurved.net%2F",
+          "oneLiner": "",
+          "icon": "store\/69.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "68",
+          "name": "Nature basket",
+          "url": "https:\/\/linksredirect.com\/?cid=12944&subid=SSnb&source=linkkit&url=https%3A%2F%2Fwww.naturesbasket.co.in%2F",
+          "oneLiner": "",
+          "icon": "store\/68.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "406",
+          "name": "Sri Sri Tattva",
+          "url": "https:\/\/linksredirect.com\/?cid=12944&subid=SST17&source=linkkit&url=https%3A%2F%2Fwww.srisritattva.com%2Fen%2F",
+          "oneLiner": "",
+          "icon": "store\/406.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "404",
+          "name": "Licious",
+          "url": "https:\/\/linksredirect.com\/?cid=12944&subid=lic15&source=linkkit&url=https%3A%2F%2Fwww.licious.in%2F",
+          "oneLiner": "",
+          "icon": "store\/404.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "403",
+          "name": "Star Quik",
+          "url": "https:\/\/linksredirect.com\/?cid=12944&subid=SSsq&source=linkkit&url=https%3A%2F%2Fwww.starquik.com%2F",
+          "oneLiner": "",
+          "icon": "store\/403.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "407",
+          "name": "MTR Ready to Eat",
+          "url": "https:\/\/linksredirect.com\/?cid=12944&subid=mtr18&source=linkkit&url=https%3A%2F%2Fshop.mtrfoods.com%2F",
+          "oneLiner": "",
+          "icon": "store\/407.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "409",
+          "name": "Easyday Club",
+          "url": "https:\/\/linksredirect.com\/?cid=12944&subid=easy20&source=linkkit&url=https%3A%2F%2Fwww.easyday.in%2F",
+          "oneLiner": "",
+          "icon": "store\/409.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "410",
+          "name": "FreshToHome",
+          "url": "https:\/\/linksredirect.com\/?cid=12944&subid=fresh21&source=linkkit&url=https%3A%2F%2Fwww.freshtohome.com%2F",
+          "oneLiner": "",
+          "icon": "store\/410.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "name": "Movies",
+      "icon": "category\/185d7bdd84eac09.png",
+      "stores": [
+        {
+          "id": "87",
+          "name": "Book my show",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=https%3A%2F%2Fin.bookmyshow.com",
+          "oneLiner": "",
+          "icon": "store\/87.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "9",
+          "name": "Paytm",
+          "url": "https:\/\/linksredirect.com\/?cid=12944&subid=SSpm&source=linkkit&url=https%3A%2F%2Fpaytm.com%2Fmovies",
+          "oneLiner": "",
+          "icon": "store\/9.jpg",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "85",
+          "name": "PVR Cinemas",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=ss3.0&source=linkkit&url=https%3A%2F%2Fwww.pvrcinemas.com",
+          "oneLiner": "",
+          "icon": "store\/85.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "86",
+          "name": "Inox",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=https%3A\/\/www.inoxmovies.com\/Index.aspx",
+          "oneLiner": "",
+          "icon": "store\/86.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "23",
+      "name": "Medical",
+      "icon": "category\/235d7bdf23b74c1.png",
+      "stores": [
+        {
+          "id": "107",
+          "name": "1 mg",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=ss2.0medical&source=linkkit&url=https%3A\/\/www.1mg.com\/",
+          "oneLiner": "",
+          "icon": "store\/107.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "103",
+          "name": "Medlife",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=ss2.0medical&source=linkkit&url=https%3A\/\/www.medlife.com\/",
+          "oneLiner": "",
+          "icon": "store\/103.jpg",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "104",
+          "name": "Netmeds",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=ss2.0medical&source=linkkit&url=http%3A\/\/www.netmeds.com\/",
+          "oneLiner": "",
+          "icon": "store\/104.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "105",
+          "name": "Practo",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=ss2.0medical&source=linkkit&url=https%3A\/\/www.practo.com\/",
+          "oneLiner": "",
+          "icon": "store\/105.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "106",
+          "name": "Healthgenie",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=ss2.0medical&source=linkkit&url=http%3A\/\/www.healthgenie.in\/",
+          "oneLiner": "",
+          "icon": "store\/106.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "82",
+      "name": "Tv & Shows",
+      "icon": "category\/825d7be388ce8fb.png",
+      "stores": [
+        {
+          "id": "416",
+          "name": "Netflix",
+          "url": "https:\/\/linksredirect.com\/?cid=12944&subid=SSnetflix&source=linkkit&url=https%3A%2F%2Fwww.netflix.com%2Fin%2F",
+          "oneLiner": "",
+          "icon": "store\/416.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "417",
+          "name": "Hotstar",
+          "url": "https:\/\/linksredirect.com\/?cid=12944&subid=SShotstar&source=linkkit&url=https%3A%2F%2Fwww.hotstar.com%2F",
+          "oneLiner": "",
+          "icon": "store\/417.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "418",
+          "name": "Zee5",
+          "url": "https:\/\/linksredirect.com\/?cid=12944&subid=SSzee5&source=linkkit&url=https%3A%2F%2Fwww.zee5.com%2F",
+          "oneLiner": "",
+          "icon": "store\/418.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "419",
+          "name": "Voot",
+          "url": "https:\/\/linksredirect.com\/?cid=12944&subid=SSvoot&source=linkkit&url=https%3A%2F%2Fwww.voot.com%2F",
+          "oneLiner": "",
+          "icon": "store\/419.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "420",
+          "name": "YouTube",
+          "url": "https:\/\/linksredirect.com\/?cid=12944&subid=SSyoutube&source=linkkit&url=https%3A%2F%2Fwww.youtube.com%2F",
+          "oneLiner": "",
+          "icon": "store\/420.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "421",
+          "name": "SonyLIV",
+          "url": "https:\/\/linksredirect.com\/?cid=12944&subid=SSsonyliv&source=linkkit&url=https%3A%2F%2Fwww.sonyliv.com%2F",
+          "oneLiner": "",
+          "icon": "store\/421.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Train",
+      "icon": "category\/125d7be4a03a738.png",
+      "stores": [
+        {
+          "id": "422",
+          "name": "Train Ticket",
+          "url": "https:\/\/clnk.in\/jxr8",
+          "oneLiner": "",
+          "icon": "store\/422.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "423",
+          "name": "PNR Status",
+          "url": "https:\/\/clnk.in\/jxsa",
+          "oneLiner": "",
+          "icon": "store\/423.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "424",
+          "name": "Live Train Status",
+          "url": "https:\/\/clnk.in\/jxsb",
+          "oneLiner": "",
+          "icon": "store\/424.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "411",
+          "name": "Rail Yatri",
+          "url": "https:\/\/linksredirect.com\/?cid=12944&subid=railfood22&source=linkkit&url=https%3A%2F%2Fwww.railyatri.in%2Fbuy-food-in-train",
+          "oneLiner": "",
+          "icon": "store\/411.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Social Media",
+      "icon": "category\/115d7be542dd9cb.png",
+      "stores": [
+        {
+          "id": "58",
+          "name": "Twitter",
+          "url": "https:\/\/twitter.com\/login?lang=en",
+          "oneLiner": "",
+          "icon": "store\/58.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "112",
+          "name": "Facebook",
+          "url": "https:\/\/www.facebook.com\/",
+          "oneLiner": "",
+          "icon": "store\/112.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "59",
+          "name": "Instagram",
+          "url": "https:\/\/www.instagram.com\/accounts\/login\/",
+          "oneLiner": "",
+          "icon": "store\/59.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "60",
+          "name": "Quora",
+          "url": "https:\/\/www.quora.com",
+          "oneLiner": "",
+          "icon": "store\/60.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "61",
+          "name": "Pinterest",
+          "url": "https:\/\/www.pinterest.com\/",
+          "oneLiner": "",
+          "icon": "store\/61.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "83",
+      "name": "News",
+      "icon": "category\/835d7be74c13fd6.png",
+      "stores": [
+        {
+          "id": "430",
+          "name": "India Today",
+          "url": "https:\/\/www.indiatoday.in\/india",
+          "oneLiner": "",
+          "icon": "store\/430.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "431",
+          "name": "Aaj Tak",
+          "url": "https:\/\/aajtak.intoday.in\/",
+          "oneLiner": "",
+          "icon": "store\/431.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "432",
+          "name": "NDTV",
+          "url": "https:\/\/www.ndtv.com\/",
+          "oneLiner": "",
+          "icon": "store\/432.jpg",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "84",
+      "name": "Sports",
+      "icon": "category\/845d7d2dac45960.png",
+      "stores": [
+        {
+          "id": "425",
+          "name": "Cricbuzz",
+          "url": "https:\/\/www.cricbuzz.com\/",
+          "oneLiner": "",
+          "icon": "store\/425.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "426",
+          "name": "NDTV",
+          "url": "https:\/\/sports.ndtv.com\/",
+          "oneLiner": "",
+          "icon": "store\/426.jpg",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "427",
+          "name": "SonyLIV",
+          "url": "https:\/\/www.sonyliv.com\/custompage\/cricket_page",
+          "oneLiner": "",
+          "icon": "store\/427.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "86",
+      "name": "Automobile",
+      "icon": "category\/865d7d32ffd196c.png",
+      "stores": [
+        {
+          "id": "94",
+          "name": "Car trade",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=https%3A\/\/www.cartrade.com\/",
+          "oneLiner": "",
+          "icon": "store\/94.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "95",
+          "name": "Car wale",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=https%3A\/\/www.carwale.com",
+          "oneLiner": "",
+          "icon": "store\/95.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "96",
+          "name": "Gaadi",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=https%3A\/\/www.gaadi.com\/",
+          "oneLiner": "",
+          "icon": "store\/96.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "85",
+      "name": "Education",
+      "icon": "category\/855d7d370767cf5.png",
+      "stores": [
+        {
+          "id": "428",
+          "name": "Vedantu",
+          "url": "https:\/\/www.vedantu.com\/",
+          "oneLiner": "",
+          "icon": "store\/428.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "429",
+          "name": "Collegedunia",
+          "url": "https:\/\/collegedunia.com\/",
+          "oneLiner": "",
+          "icon": "store\/429.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "name": "Home & Kitchen",
+      "icon": "category\/145d7d3b6dd00f8.png",
+      "stores": [
+        {
+          "id": "1",
+          "name": "Amazon",
+          "url": "https:\/\/www.amazon.in\/Home-Kitchen\/b\/ref=as_li_ss_tl?ie=UTF8&node=976442031&linkCode=ll2&tag=ss2.0homekitchen-21&linkId=315c85c42f7d8baf22c743a5ae40e6f3",
+          "oneLiner": "",
+          "icon": "store\/1608bde24209b1.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "2",
+          "name": "Flipkart",
+          "url": "https:\/\/www.flipkart.com\/browse\/kitchen%20&%20dining\/pr?q=&sid=r4l&affid=nudimelab&affExtParam1=ss2.0homekitchen",
+          "oneLiner": "",
+          "icon": "store\/25ac61b9ea6646.png",
+          "ccPhoneNumber": "1800 208 9898",
+          "ccEmail": "cs@flipkart.com",
+          "saleTransactionUrl": "https:\/\/www.flipkart.com\/rv\/orderConfirmation"
+        },
+        {
+          "id": "3",
+          "name": "Shopclues",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=ss2.0home&kitchen&source=linkkit&url=http%3A\/\/www.shopclues.com\/home-garden\/home-furnishing-17.html",
+          "oneLiner": "",
+          "icon": "store\/35a8983ec33b2f.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "4",
+          "name": "Snapdeal",
+          "url": "https:\/\/www.snapdeal.com\/search?keyword=kitchen&santizedKeyword=kitchen&catId=5&categoryId=5&suggested=false&vertical=p&noOfResults=20&searchState=k3%3Dtrue%7Ck5%3D0%7Ck6%3D0%7Ck7%3DkNTaQhAQAAAIAASAEAAgAAAAAAAAAAAAAAAAAAAI%7Ck8%3D0&clickSrc=searchOnSubCat&lastKeyword=&prodCatId=&changeBackToAll=false&foundInAll=false&categoryIdSearched=&cityPageUrl=&categoryUrl=&url=&utmContent=&dealDetail=&sort=rlvncy#bcrumbSearch:kitchen|bcrumbLabelId:5",
+          "oneLiner": "",
+          "icon": "store\/45a8a83bee8ac6.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "70",
+          "name": "Pepperfry",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=ss2.0home&kitchen&source=linkkit&url=http%3A\/\/www.pepperfry.com\/",
+          "oneLiner": "",
+          "icon": "store\/70.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "71",
+          "name": "Fab furnish",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=ss2.0home&kitchen&source=linkkit&url=http%3A\/\/www.fabfurnish.com\/",
+          "oneLiner": "",
+          "icon": "store\/71.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "73",
+          "name": "Homeshop 18",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=ss2.0home&kitchen&source=linkkit&url=http%3A\/\/www.homeshop18.com\/",
+          "oneLiner": "",
+          "icon": "store\/73.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "name": "Gifts & Flowers",
+      "icon": "category\/155d7d463f0d9b1.png",
+      "stores": [
+        {
+          "id": "121",
+          "name": "Archies",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=ss2.0gifts&flowers&source=linkkit&url=http%3A\/\/www.archiesonline.com\/",
+          "oneLiner": "",
+          "icon": "store\/121.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "123",
+          "name": "Chumbak",
+          "url": "https:\/\/linksredirect.com\/?cid=12944&subid=SSchumbak&source=linkkit&url=https%3A%2F%2Fwww.chumbak.com",
+          "oneLiner": "",
+          "icon": "store\/123.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "122",
+          "name": "Art4u",
+          "url": "https:\/\/linksredirect.com\/?cid=12944&subid=SSart4u&source=linkkit&url=https%3A%2F%2Fwww.art4u.com%2F",
+          "oneLiner": "",
+          "icon": "store\/122.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "124",
+          "name": "Ferns & petals",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=ss2.0gifts&flowers&source=linkkit&url=http%3A\/\/www.fnp.com\/",
+          "oneLiner": "",
+          "icon": "store\/124.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "130",
+          "name": "Indian gifts portal",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=ss2.0gifts&flowers&source=linkkit&url=http%3A\/\/www.indiangiftsportal.com\/",
+          "oneLiner": "",
+          "icon": "store\/130.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "129",
+          "name": "Happily unmarried",
+          "url": "https:\/\/clnk.in\/jzWy",
+          "oneLiner": "",
+          "icon": "store\/129.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "127",
+          "name": "Giftease",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=ss2.0gifts&flowers&source=linkkit&url=http%3A\/\/www.giftease.com\/",
+          "oneLiner": "",
+          "icon": "store\/127.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "125",
+          "name": "Flabbery",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=ss2.0gifts&flowers&source=linkkit&url=http%3A\/\/www.flaberry.com\/",
+          "oneLiner": "",
+          "icon": "store\/125.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "126",
+          "name": "Flower aura",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=ss2.0gifts&flowers&source=linkkit&url=http%3A\/\/www.floweraura.com\/",
+          "oneLiner": "",
+          "icon": "store\/126.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "131",
+          "name": "My flower tree",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&source=linkkit&url=https%3A\/\/www.myflowertree.com\/",
+          "oneLiner": "",
+          "icon": "store\/131.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "128",
+          "name": "Giftsmate",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=ss2.0gifts&flowers&source=linkkit&url=https%3A\/\/www.giftsmate.net\/",
+          "oneLiner": "",
+          "icon": "store\/128.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "name": "Printing",
+      "icon": "category\/175d7d43d427ba6.png",
+      "stores": [
+        {
+          "id": "82",
+          "name": "Printland",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=ss2.0printing&source=linkkit&url=http%3A\/\/www.printland.in\/",
+          "oneLiner": "",
+          "icon": "store\/82.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "83",
+          "name": "Printvenue",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=ss2.0printing&source=linkkit&url=http%3A\/\/www.printvenue.com\/",
+          "oneLiner": "",
+          "icon": "store\/83.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        }
+      ]
+    }
+  ],
+  "carousels": [
+    {
+      "image": "carousels\/country\/744.jpg",
+      "url": "https:\/\/smartshoppr-ah.dpanda.online\/search?filter_vendor=Boult%20Audio,Pebble,SpinBot&custom_tags_filter_type=boost&utm_campaign=66*UTM-SM-1",
+      "fallbackUrl": "https:\/\/smartshoppr-ah.dpanda.online\/search?filter_vendor=Boult%20Audio,Pebble,SpinBot&custom_tags_filter_type=boost&utm_campaign=66*UTM-SM-1",
+      "opens_liteapps": "0",
+      "caption": "Electronics Sale"
+    },
+    {
+      "image": "carousels\/country\/745.jpg",
+      "url": "https:\/\/smartshoppr-ah.dpanda.online\/search?filter_brand_name=Happilo&custom_tags_filter_type=boost&utm_campaign=66*UTM-SM-2",
+      "fallbackUrl": "https:\/\/smartshoppr-ah.dpanda.online\/search?filter_brand_name=Happilo&custom_tags_filter_type=boost&utm_campaign=66*UTM-SM-2",
+      "opens_liteapps": "0",
+      "caption": "Food And Snacks"
+    },
+    {
+      "image": "carousels\/country\/746.jpg",
+      "url": "https:\/\/smartshoppr-ah.dpanda.online\/search?&filter_vendor=The%20Man%20Company,Bombay%20Shaving%20Company,Spruce%20Shave%20Club&custom_tags_filter_type=boost&utm_campaign=66*UTM-SM-4",
+      "fallbackUrl": "https:\/\/smartshoppr-ah.dpanda.online\/search?&filter_vendor=The%20Man%20Company,Bombay%20Shaving%20Company,Spruce%20Shave%20Club&custom_tags_filter_type=boost&utm_campaign=66*UTM-SM-4",
+      "opens_liteapps": "0",
+      "caption": "Men Grooming"
+    },
+    {
+      "image": "carousels\/country\/747.jpg",
+      "url": "https:\/\/smartshoppr-ah.dpanda.online\/search?filter_custom_tags=66*T-1-5&filter_vendor=Sanfe,PureSense,Brillare,Soulflower&custom_tags_filter_type=boost&utm_campaign=66*UTM-SM-3",
+      "fallbackUrl": "https:\/\/smartshoppr-ah.dpanda.online\/search?filter_custom_tags=66*T-1-5&filter_vendor=Sanfe,PureSense,Brillare,Soulflower&custom_tags_filter_type=boost&utm_campaign=66*UTM-SM-3",
+      "opens_liteapps": "0",
+      "caption": "Skincare"
+    },
+    {
+      "image": "carousels\/country\/738.png",
+      "url": "market:\/\/details?id=shopall.compare.onlineshopping.shopping&utm_source=SS&utm_campaign=refer&utm_medium=cric",
+      "fallbackUrl": "market:\/\/details?id=shopall.compare.onlineshopping.shopping&utm_source=SS&utm_campaign=refer&utm_medium=cric",
+      "opens_liteapps": "0",
+      "caption": ""
+    },
+    {
+      "image": "carousels\/country\/732.png",
+      "url": "https:\/\/www.amazon.in\/gp\/goldbox\/ref=as_li_ss_tl?ie=UTF8&linkCode=ll2&tag=dealsoftheday3.0-21&linkId=b4564110de8be8220b911238c13b7ed5",
+      "fallbackUrl": "https:\/\/www.amazon.in\/gp\/goldbox\/ref=as_li_ss_tl?ie=UTF8&linkCode=ll2&tag=dealsoftheday3.0-21&linkId=b4564110de8be8220b911238c13b7ed5",
+      "opens_liteapps": "0",
+      "caption": "Best Amazon Deals and Offers"
+    },
+    {
+      "image": "carousels\/country\/735.png",
+      "url": "https:\/\/api.flickstree.com\/video_commerce\/user\/products.php?partner=com.smartshopper&type=buyer",
+      "fallbackUrl": "https:\/\/api.flickstree.com\/video_commerce\/user\/products.php?partner=com.smartshopper&type=buyer",
+      "opens_liteapps": "0",
+      "caption": "Best Indian Online Courses"
+    },
+    {
+      "image": "carousels\/country\/740.png",
+      "url": "https:\/\/smartshoppr-ah.dpanda.online\/search?filter_vendor=The Man Company&order=asc&sort=data.price&filter_price_gte=300&utm_campaign=66*UTM-1-1&limit=20&start=0",
+      "fallbackUrl": "https:\/\/smartshoppr-ah.dpanda.online\/search?filter_vendor=The Man Company&order=asc&sort=data.price&filter_price_gte=300&utm_campaign=66*UTM-1-1&limit=20&start=0",
+      "opens_liteapps": "0",
+      "caption": "Independence Day Sale"
+    }
+  ],
+  "carousels2": [
+    {
+      "image": "carousels\/country\/744.jpg",
+      "url": "https:\/\/smartshoppr-ah.dpanda.online\/search?filter_vendor=Boult%20Audio,Pebble,SpinBot&custom_tags_filter_type=boost&utm_campaign=66*UTM-SM-1",
+      "fallbackUrl": "https:\/\/smartshoppr-ah.dpanda.online\/search?filter_vendor=Boult%20Audio,Pebble,SpinBot&custom_tags_filter_type=boost&utm_campaign=66*UTM-SM-1",
+      "opens_liteapps": "0",
+      "caption": "Electronics Sale"
+    },
+    {
+      "image": "carousels\/country\/745.jpg",
+      "url": "https:\/\/smartshoppr-ah.dpanda.online\/search?filter_brand_name=Happilo&custom_tags_filter_type=boost&utm_campaign=66*UTM-SM-2",
+      "fallbackUrl": "https:\/\/smartshoppr-ah.dpanda.online\/search?filter_brand_name=Happilo&custom_tags_filter_type=boost&utm_campaign=66*UTM-SM-2",
+      "opens_liteapps": "0",
+      "caption": "Food And Snacks"
+    },
+    {
+      "image": "carousels\/country\/746.jpg",
+      "url": "https:\/\/smartshoppr-ah.dpanda.online\/search?&filter_vendor=The%20Man%20Company,Bombay%20Shaving%20Company,Spruce%20Shave%20Club&custom_tags_filter_type=boost&utm_campaign=66*UTM-SM-4",
+      "fallbackUrl": "https:\/\/smartshoppr-ah.dpanda.online\/search?&filter_vendor=The%20Man%20Company,Bombay%20Shaving%20Company,Spruce%20Shave%20Club&custom_tags_filter_type=boost&utm_campaign=66*UTM-SM-4",
+      "opens_liteapps": "0",
+      "caption": "Men Grooming"
+    },
+    {
+      "image": "carousels\/country\/747.jpg",
+      "url": "https:\/\/smartshoppr-ah.dpanda.online\/search?filter_custom_tags=66*T-1-5&filter_vendor=Sanfe,PureSense,Brillare,Soulflower&custom_tags_filter_type=boost&utm_campaign=66*UTM-SM-3",
+      "fallbackUrl": "https:\/\/smartshoppr-ah.dpanda.online\/search?filter_custom_tags=66*T-1-5&filter_vendor=Sanfe,PureSense,Brillare,Soulflower&custom_tags_filter_type=boost&utm_campaign=66*UTM-SM-3",
+      "opens_liteapps": "0",
+      "caption": "Skincare"
+    },
+    {
+      "image": "carousels\/country\/738.png",
+      "url": "market:\/\/details?id=shopall.compare.onlineshopping.shopping&utm_source=SS&utm_campaign=refer&utm_medium=cric",
+      "fallbackUrl": "market:\/\/details?id=shopall.compare.onlineshopping.shopping&utm_source=SS&utm_campaign=refer&utm_medium=cric",
+      "opens_liteapps": "0",
+      "caption": ""
+    },
+    {
+      "image": "carousels\/country\/732.png",
+      "url": "https:\/\/www.amazon.in\/gp\/goldbox\/ref=as_li_ss_tl?ie=UTF8&linkCode=ll2&tag=dealsoftheday3.0-21&linkId=b4564110de8be8220b911238c13b7ed5",
+      "fallbackUrl": "https:\/\/www.amazon.in\/gp\/goldbox\/ref=as_li_ss_tl?ie=UTF8&linkCode=ll2&tag=dealsoftheday3.0-21&linkId=b4564110de8be8220b911238c13b7ed5",
+      "opens_liteapps": "0",
+      "caption": "Best Amazon Deals and Offers"
+    },
+    {
+      "image": "carousels\/country\/735.png",
+      "url": "https:\/\/api.flickstree.com\/video_commerce\/user\/products.php?partner=com.smartshopper&type=buyer",
+      "fallbackUrl": "https:\/\/api.flickstree.com\/video_commerce\/user\/products.php?partner=com.smartshopper&type=buyer",
+      "opens_liteapps": "0",
+      "caption": "Best Indian Online Courses"
+    },
+    {
+      "image": "carousels\/country\/736.png",
+      "url": "",
+      "fallbackUrl": "",
+      "opens_liteapps": "1",
+      "caption": ""
+    },
+    {
+      "image": "carousels\/country\/740.png",
+      "url": "https:\/\/smartshoppr-ah.dpanda.online\/search?filter_vendor=The Man Company&order=asc&sort=data.price&filter_price_gte=300&utm_campaign=66*UTM-1-1&limit=20&start=0",
+      "fallbackUrl": "https:\/\/smartshoppr-ah.dpanda.online\/search?filter_vendor=The Man Company&order=asc&sort=data.price&filter_price_gte=300&utm_campaign=66*UTM-1-1&limit=20&start=0",
+      "opens_liteapps": "0",
+      "caption": "Independence Day Sale"
+    }
+  ],
+  "generationTime": "April 6, 2025, 4:15 pm IST",
+  "unixTime": 1743936301,
+  "imagesBaseUrl": "http:\/\/img.stshr.co\/",
+  "countryCode": "IN",
+  "tabsOrder": [
+    0,
+    3,
+    2,
+    1
+  ]
+}

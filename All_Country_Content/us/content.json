@@ -1,0 +1,2818 @@
+{
+  "deals_stores": [
+    {
+      "id": "133",
+      "name": "Walmart",
+      "icon": "store\/133.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.walmart.com\/",
+      "searchUrl": "https:\/\/www.walmart.com\/search\/?query=%s&cat_id=0",
+      "colorCode": "#1287F8"
+    },
+    {
+      "id": "134",
+      "name": "Light in the box",
+      "icon": "store\/134.png",
+      "deals_count": 0,
+      "url": "http:\/\/m.lightinthebox.com\/promotions\/super-sale-2016.html",
+      "searchUrl": "https:\/\/www.lightinthebox.com\/c\/fashion-hosiery_5359?keyword=%s&inc_subcat=1&search_in_description=0",
+      "colorCode": "#C62127"
+    },
+    {
+      "id": "135",
+      "name": "Amazon",
+      "icon": "store\/135.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.amazon.com\/",
+      "searchUrl": "https:\/\/www.amazon.com\/s\/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=%s",
+      "colorCode": "#000000"
+    },
+    {
+      "id": "136",
+      "name": "Ebay",
+      "icon": "store\/136.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.ebay.com\/deals\/?rmvSB=true",
+      "searchUrl": "https:\/\/www.ebay.com\/sch\/i.html?_from=R40&_trksid=p2380057.m570.l1313.TR12.TRC2.A0.H0.Xsocks.TRS0&_nkw=%s&_sacat=0",
+      "colorCode": "#1058D5"
+    },
+    {
+      "id": "137",
+      "name": "Ali express",
+      "icon": "store\/137.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.aliexpress.com",
+      "searchUrl": "https:\/\/www.aliexpress.com\/af\/%s.html?d=y&origin=n&blanktest=0&jump=afs&isViewCP=y&catId=0",
+      "colorCode": "#1058D5"
+    },
+    {
+      "id": "138",
+      "name": "Kohl&#39;s",
+      "icon": "store\/138.png",
+      "deals_count": 0,
+      "url": "http:\/\/www.kohls.com\/sale-event\/coupons-deals.jsp?cc=todaysdeals-TN1.0-S-todaysdeals",
+      "searchUrl": "https:\/\/www.kohls.com\/search.jsp?submit-search=web-regular&search=%s",
+      "colorCode": "#C6168C"
+    },
+    {
+      "id": "139",
+      "name": "Hhgregg",
+      "icon": "store\/139.png",
+      "deals_count": 0,
+      "url": "http:\/\/www.hhgregg.com\/black-friday#facet:&productBeginIndex:0&orderBy:0&pageView:grid&minPrice:&maxPrice:&",
+      "searchUrl": null,
+      "colorCode": "#E7233F"
+    },
+    {
+      "id": "140",
+      "name": "Groupon",
+      "icon": "store\/140.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.groupon.com\/occasion\/black-friday-deals",
+      "searchUrl": null,
+      "colorCode": "#86C53A"
+    },
+    {
+      "id": "141",
+      "name": "Samsung",
+      "icon": "store\/141.png",
+      "deals_count": 0,
+      "url": "http:\/\/www.samsung.com\/us\/shop\/black-friday\/",
+      "searchUrl": null,
+      "colorCode": "#10218B"
+    },
+    {
+      "id": "142",
+      "name": "Shop your way",
+      "icon": "store\/142.png",
+      "deals_count": 0,
+      "url": "http:\/\/www.shopyourway.com\/deals",
+      "searchUrl": null,
+      "colorCode": "#FEBC1D"
+    },
+    {
+      "id": "143",
+      "name": "Jc penney",
+      "icon": "store\/143.png",
+      "deals_count": 0,
+      "url": "",
+      "searchUrl": null,
+      "colorCode": "#BE2222"
+    },
+    {
+      "id": "145",
+      "name": "Wish",
+      "icon": "store\/145.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.wish.com\/m?app_deep_link=d2lzaDovLw%3D%3D",
+      "searchUrl": null,
+      "colorCode": "#31B7EC"
+    },
+    {
+      "id": "146",
+      "name": "Zappos",
+      "icon": "store\/146.png",
+      "deals_count": 0,
+      "url": "",
+      "searchUrl": null,
+      "colorCode": "#759BC6"
+    },
+    {
+      "id": "147",
+      "name": "Best buy",
+      "icon": "store\/147.jpg",
+      "deals_count": 0,
+      "url": "http:\/\/www.bestbuy.com\/?intl=nosplash",
+      "searchUrl": null,
+      "colorCode": "#F5E339"
+    },
+    {
+      "id": "148",
+      "name": "Kmart",
+      "icon": "store\/148.png",
+      "deals_count": 0,
+      "url": "http:\/\/m.kmart.com\/",
+      "searchUrl": null,
+      "colorCode": "#E82E2C"
+    },
+    {
+      "id": "149",
+      "name": "Qvc",
+      "icon": "store\/149.png",
+      "deals_count": 0,
+      "url": "http:\/\/www.qvc.com\/",
+      "searchUrl": null,
+      "colorCode": "#EA5D5E"
+    },
+    {
+      "id": "150",
+      "name": "Amazon prime now",
+      "icon": "store\/150.png",
+      "deals_count": 0,
+      "url": "https:\/\/primenow.amazon.com\/",
+      "searchUrl": null,
+      "colorCode": "#FF7817"
+    },
+    {
+      "id": "151",
+      "name": "Dollar general",
+      "icon": "store\/151.png",
+      "deals_count": 0,
+      "url": "http:\/\/www.dollargeneral.com\/",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "152",
+      "name": "Jet",
+      "icon": "store\/152.png",
+      "deals_count": 0,
+      "url": "https:\/\/jet.com\/",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "153",
+      "name": "Dhgate",
+      "icon": "store\/153.png",
+      "deals_count": 0,
+      "url": "http:\/\/m.dhgate.com\/",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "154",
+      "name": "Etsy",
+      "icon": "store\/154.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.etsy.com\/in-en\/",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "155",
+      "name": "Target",
+      "icon": "store\/155.png",
+      "deals_count": 0,
+      "url": "http:\/\/www.target.com\/",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "156",
+      "name": "Sears",
+      "icon": "store\/156.png",
+      "deals_count": 0,
+      "url": "http:\/\/m.sears.com\/",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "157",
+      "name": "Kroger",
+      "icon": "store\/157.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "158",
+      "name": "Costco",
+      "icon": "store\/158.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "159",
+      "name": "Google express",
+      "icon": "store\/159.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "160",
+      "name": "Macy&#39;s",
+      "icon": "store\/160.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "161",
+      "name": "Footlocker",
+      "icon": "store\/161.jpg",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "162",
+      "name": "Snkrs",
+      "icon": "store\/162.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "163",
+      "name": "Dresslily",
+      "icon": "store\/163.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "164",
+      "name": "6pm",
+      "icon": "store\/164.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "165",
+      "name": "Express",
+      "icon": "store\/165.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "166",
+      "name": "Thredup",
+      "icon": "store\/166.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "167",
+      "name": "Rose wholesale",
+      "icon": "store\/167.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "168",
+      "name": "Sammydress",
+      "icon": "store\/168.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.sammydress.com\/",
+      "searchUrl": "",
+      "colorCode": ""
+    },
+    {
+      "id": "169",
+      "name": "Shein",
+      "icon": "store\/169.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "170",
+      "name": "Zulily",
+      "icon": "store\/170.jpg",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "171",
+      "name": "Victoria&#39;s secret",
+      "icon": "store\/171.jpg",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "172",
+      "name": "Jane",
+      "icon": "store\/172.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "173",
+      "name": "Chic me",
+      "icon": "store\/173.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "174",
+      "name": "Ulta(beauty)",
+      "icon": "store\/174.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "175",
+      "name": "Nasty Gal",
+      "icon": "store\/175.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.nastygal.com\/",
+      "searchUrl": "",
+      "colorCode": ""
+    },
+    {
+      "id": "176",
+      "name": "Cute",
+      "icon": "store\/176.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "177",
+      "name": "Adore me",
+      "icon": "store\/177.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "178",
+      "name": "Nordstorm",
+      "icon": "store\/178.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "179",
+      "name": "Tradesy",
+      "icon": "store\/179.jpg",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "180",
+      "name": "Charlotte russe",
+      "icon": "store\/180.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "181",
+      "name": "Wanelo",
+      "icon": "store\/181.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "182",
+      "name": "Footaction",
+      "icon": "store\/182.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "183",
+      "name": "Home",
+      "icon": "store\/183.jpg",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "184",
+      "name": "Thehomedepot",
+      "icon": "store\/184.jpg",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "185",
+      "name": "Lowe&#39;s",
+      "icon": "store\/185.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "186",
+      "name": "Overstock",
+      "icon": "store\/186.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "187",
+      "name": "Kirkland&#39;s",
+      "icon": "store\/187.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "188",
+      "name": "Hollar",
+      "icon": "store\/188.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "189",
+      "name": "Ac moore",
+      "icon": "store\/189.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "190",
+      "name": "Retail me not",
+      "icon": "store\/190.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "191",
+      "name": "Krazy coupon lady",
+      "icon": "store\/191.png",
+      "deals_count": 0,
+      "url": "https:\/\/thekrazycouponlady.com\/",
+      "searchUrl": "",
+      "colorCode": ""
+    },
+    {
+      "id": "192",
+      "name": "Coupons",
+      "icon": "store\/192.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "193",
+      "name": "Slickdeals",
+      "icon": "store\/193.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "194",
+      "name": "Raise",
+      "icon": "store\/194.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.raise.com\/",
+      "searchUrl": "",
+      "colorCode": ""
+    },
+    {
+      "id": "195",
+      "name": "Toys&#39;R&#39;us",
+      "icon": "store\/195.jpg",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "196",
+      "name": "Toys&#39;R&#39;us",
+      "icon": "store\/196.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.toysrus.com\/",
+      "searchUrl": "",
+      "colorCode": ""
+    },
+    {
+      "id": "197",
+      "name": "Partycity",
+      "icon": "store\/197.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "198",
+      "name": "Mama",
+      "icon": "store\/198.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "199",
+      "name": "Tophatter",
+      "icon": "store\/199.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "200",
+      "name": "Dick&#39;s",
+      "icon": "store\/200.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.dickssportinggoods.com\/",
+      "searchUrl": "",
+      "colorCode": ""
+    },
+    {
+      "id": "201",
+      "name": "Craigslist",
+      "icon": "store\/201.jpg",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "202",
+      "name": "Poshmark(fashion)",
+      "icon": "store\/202.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "203",
+      "name": "5miles",
+      "icon": "store\/203.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "205",
+      "name": "Letgo",
+      "icon": "store\/205.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "206",
+      "name": "Close 5",
+      "icon": "store\/206.png",
+      "deals_count": 0,
+      "url": "http:\/\/www.ebayclassifiedsgroup.com\/brands-close5.html",
+      "searchUrl": "",
+      "colorCode": ""
+    },
+    {
+      "id": "207",
+      "name": "Varagesale",
+      "icon": "store\/207.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "208",
+      "name": "Checkout51",
+      "icon": "store\/208.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "209",
+      "name": "Albertsons",
+      "icon": "store\/209.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "210",
+      "name": "Heb",
+      "icon": "store\/210.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "211",
+      "name": "Boxed",
+      "icon": "store\/211.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "212",
+      "name": "Aldi",
+      "icon": "store\/212.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "213",
+      "name": "Shoprite",
+      "icon": "store\/213.jpg",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "214",
+      "name": "Eat24",
+      "icon": "store\/214.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "215",
+      "name": "Beyond menu",
+      "icon": "store\/215.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "216",
+      "name": "Orderup",
+      "icon": "store\/216.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "217",
+      "name": "Doordash",
+      "icon": "store\/217.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "218",
+      "name": "Caviar",
+      "icon": "store\/218.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "219",
+      "name": "Delivery",
+      "icon": "store\/219.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "220",
+      "name": "Minibar",
+      "icon": "store\/220.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "221",
+      "name": "Munchery",
+      "icon": "store\/221.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "222",
+      "name": "Autozone",
+      "icon": "store\/222.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "223",
+      "name": "Cargurus",
+      "icon": "store\/223.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "224",
+      "name": "Walgreens",
+      "icon": "store\/224.png",
+      "deals_count": 0,
+      "url": null,
+      "searchUrl": null,
+      "colorCode": null
+    },
+    {
+      "id": "378",
+      "name": "FragranceX",
+      "icon": "store\/378.png",
+      "deals_count": 0,
+      "url": "",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "379",
+      "name": "Tmart",
+      "icon": "store\/379.jpg",
+      "deals_count": 0,
+      "url": "",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "380",
+      "name": "SheIn",
+      "icon": "store\/380.png",
+      "deals_count": 0,
+      "url": "",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "434",
+      "name": "Flipp",
+      "icon": "store\/434.png",
+      "deals_count": 0,
+      "url": "https:\/\/flipp.com\/home",
+      "searchUrl": "",
+      "colorCode": "#42C7D7"
+    },
+    {
+      "id": "435",
+      "name": "Adidas",
+      "icon": "store\/435.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.adidas.com\/us",
+      "searchUrl": null,
+      "colorCode": "#FFFFFF"
+    },
+    {
+      "id": "436",
+      "name": "Rowme",
+      "icon": "store\/436.png",
+      "deals_count": 0,
+      "url": "https:\/\/m.romwe.com\/us\/",
+      "searchUrl": null,
+      "colorCode": "#EAEAEA"
+    },
+    {
+      "id": "437",
+      "name": "Agoda",
+      "icon": "store\/437.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.agoda.com\/",
+      "searchUrl": null,
+      "colorCode": "#D1D1D0"
+    },
+    {
+      "id": "438",
+      "name": "American Eagle Outfitters",
+      "icon": "store\/438.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.ae.com\/us\/en",
+      "searchUrl": null,
+      "colorCode": "#333333"
+    },
+    {
+      "id": "439",
+      "name": "Banana Republic",
+      "icon": "store\/439.png",
+      "deals_count": 0,
+      "url": "https:\/\/bananarepublic.gap.com\/",
+      "searchUrl": null,
+      "colorCode": "#CA8573"
+    },
+    {
+      "id": "440",
+      "name": "Barnes and Noble",
+      "icon": "store\/4405e297e67deb16.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.barnesandnoble.com\/",
+      "searchUrl": "",
+      "colorCode": "#35614A"
+    },
+    {
+      "id": "441",
+      "name": "Bath and Body Works",
+      "icon": "store\/441.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.bathandbodyworks.com\/",
+      "searchUrl": null,
+      "colorCode": "#3C7EB1"
+    },
+    {
+      "id": "442",
+      "name": "Bed Bath and Beyond",
+      "icon": "store\/442.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.bedbathandbeyond.com\/",
+      "searchUrl": null,
+      "colorCode": "#000000"
+    },
+    {
+      "id": "443",
+      "name": "BH Cosmetics",
+      "icon": "store\/443.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.bhcosmetics.com\/",
+      "searchUrl": null,
+      "colorCode": "#BB0011"
+    },
+    {
+      "id": "444",
+      "name": "Big Lots",
+      "icon": "store\/444.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.biglots.com\/",
+      "searchUrl": null,
+      "colorCode": "#F15C22"
+    },
+    {
+      "id": "445",
+      "name": "Bloomingdale&#39;s",
+      "icon": "store\/445.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.bloomingdales.com\/",
+      "searchUrl": null,
+      "colorCode": "#000000"
+    },
+    {
+      "id": "446",
+      "name": "Booking.com",
+      "icon": "store\/446.png",
+      "deals_count": 0,
+      "url": "https:\/\/m.booking.com\/",
+      "searchUrl": null,
+      "colorCode": "#F7F7F7"
+    },
+    {
+      "id": "447",
+      "name": "Champs Stores",
+      "icon": "store\/447.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.champssports.com\/",
+      "searchUrl": null,
+      "colorCode": "#001B71"
+    },
+    {
+      "id": "448",
+      "name": "Dicks",
+      "icon": "store\/448.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.dickssportinggoods.com\/",
+      "searchUrl": null,
+      "colorCode": "#006655"
+    },
+    {
+      "id": "449",
+      "name": "Coupons.com",
+      "icon": "store\/449.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.coupons.com\/",
+      "searchUrl": null,
+      "colorCode": "#FFFFFF"
+    },
+    {
+      "id": "450",
+      "name": "Eastbay",
+      "icon": "store\/450.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.eastbay.com\/",
+      "searchUrl": null,
+      "colorCode": "#F6CF46"
+    },
+    {
+      "id": "451",
+      "name": "Expedia",
+      "icon": "store\/4515e2e8cb30d21e.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.expedia.com",
+      "searchUrl": "",
+      "colorCode": "#FFCC00"
+    },
+    {
+      "id": "452",
+      "name": "Finish Line",
+      "icon": "store\/4525e2e8cc0c9aac.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.finishline.com\/",
+      "searchUrl": "",
+      "colorCode": "#333333"
+    },
+    {
+      "id": "453",
+      "name": "Gamestop",
+      "icon": "store\/4535e2e8ccbc2736.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.gamestop.com\/",
+      "searchUrl": "",
+      "colorCode": "#000000"
+    },
+    {
+      "id": "454",
+      "name": "Gap",
+      "icon": "store\/4545e2e8cd5cddf1.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.gap.com\/",
+      "searchUrl": "",
+      "colorCode": "#091122"
+    },
+    {
+      "id": "455",
+      "name": "Harry and David",
+      "icon": "store\/4555e2e8cdf5b5c5.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.harryanddavid.com\/",
+      "searchUrl": "",
+      "colorCode": "#2F2F2F"
+    },
+    {
+      "id": "456",
+      "name": "Home Depot",
+      "icon": "store\/4565e2e8ce843994.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.homedepot.com\/",
+      "searchUrl": "",
+      "colorCode": "#F96302"
+    },
+    {
+      "id": "457",
+      "name": "Hotels.com",
+      "icon": "store\/4575e2e8cfd270bc.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.hotels.com",
+      "searchUrl": "",
+      "colorCode": "#7FC2E5"
+    },
+    {
+      "id": "458",
+      "name": "Mama Wish",
+      "icon": "store\/4585e2e8d0d30929.png",
+      "deals_count": 0,
+      "url": "https:\/\/mama.wish.com",
+      "searchUrl": "",
+      "colorCode": "#7A76B5"
+    },
+    {
+      "id": "459",
+      "name": "Michael&#39;s",
+      "icon": "store\/4595e2e8d1731b52.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.michaels.com\/",
+      "searchUrl": "",
+      "colorCode": "#FBFEFB"
+    },
+    {
+      "id": "460",
+      "name": "Mod Cloth",
+      "icon": "store\/4605e2e8d2859ce9.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.modcloth.com\/",
+      "searchUrl": "",
+      "colorCode": "#47505F"
+    },
+    {
+      "id": "461",
+      "name": "Motel6",
+      "icon": "store\/4615e2e8d388827d.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.motel6.com\/#\/home",
+      "searchUrl": "",
+      "colorCode": "#166BB1"
+    },
+    {
+      "id": "462",
+      "name": "Neiman Marcus",
+      "icon": "store\/4625e2e8d417cff6.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.neimanmarcus.com\/",
+      "searchUrl": "",
+      "colorCode": "#000000"
+    },
+    {
+      "id": "463",
+      "name": "Newegg",
+      "icon": "store\/4635e2e8d51ab566.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.newegg.com\/",
+      "searchUrl": "",
+      "colorCode": "#A5A5A5"
+    },
+    {
+      "id": "464",
+      "name": "Nike",
+      "icon": "store\/4645e2e8d63d234a.png",
+      "deals_count": 0,
+      "url": "https:\/\/store.nike.com\/us\/en_us\/us",
+      "searchUrl": "",
+      "colorCode": "#FFFFFF"
+    },
+    {
+      "id": "465",
+      "name": "Nordstrom",
+      "icon": "store\/4655e2e8d7406081.png",
+      "deals_count": 0,
+      "url": "https:\/\/shop.nordstrom.com\/",
+      "searchUrl": "",
+      "colorCode": "#E5E5E3"
+    },
+    {
+      "id": "466",
+      "name": "Old Navy",
+      "icon": "store\/4665e2e8d833f3d8.png",
+      "deals_count": 0,
+      "url": "https:\/\/oldnavy.gap.com\/",
+      "searchUrl": "",
+      "colorCode": "#003764"
+    },
+    {
+      "id": "467",
+      "name": "Pet Smart",
+      "icon": "store\/4675e2e8d8cc8a31.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.petsmart.com\/",
+      "searchUrl": "",
+      "colorCode": "#DE2025"
+    },
+    {
+      "id": "468",
+      "name": "Posh Mark",
+      "icon": "store\/4685e2e8d95cfd6c.png",
+      "deals_count": 0,
+      "url": "https:\/\/poshmark.com\/",
+      "searchUrl": "",
+      "colorCode": "#3D5A98"
+    },
+    {
+      "id": "469",
+      "name": "Zuilly",
+      "icon": "store\/4695e2e8da471f41.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.zulily.com\/",
+      "searchUrl": "",
+      "colorCode": "#87189D"
+    },
+    {
+      "id": "470",
+      "name": "Saks Fifth Avenue",
+      "icon": "store\/4705e2e8db2c2199.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.saksfifthavenue.com",
+      "searchUrl": "",
+      "colorCode": "#010101"
+    },
+    {
+      "id": "471",
+      "name": "Sams Club",
+      "icon": "store\/4715e2e8dba61c2b.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.samsclub.com\/",
+      "searchUrl": "",
+      "colorCode": "#0067A0"
+    },
+    {
+      "id": "472",
+      "name": "Shutterfly",
+      "icon": "store\/4725e2e8dc2ee0ff.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.shutterfly.com\/",
+      "searchUrl": "",
+      "colorCode": "#F05323"
+    },
+    {
+      "id": "473",
+      "name": "Staples",
+      "icon": "store\/4735e2e8dcd2defb.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.staples.com\/",
+      "searchUrl": "",
+      "colorCode": "#CD0001"
+    },
+    {
+      "id": "474",
+      "name": "Top Hatter",
+      "icon": "store\/4745e2e8dd66fefa.png",
+      "deals_count": 0,
+      "url": "https:\/\/tophatter.com\/",
+      "searchUrl": "",
+      "colorCode": "#FFFFFF"
+    },
+    {
+      "id": "475",
+      "name": "Ulta",
+      "icon": "store\/4755e2e8dde892fc.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.ulta.com\/",
+      "searchUrl": "",
+      "colorCode": "#FFFBFC"
+    },
+    {
+      "id": "476",
+      "name": "Under Armour",
+      "icon": "store\/4765e2e8de9aef08.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.underarmour.com\/en-us\/",
+      "searchUrl": "",
+      "colorCode": "#CE9504"
+    },
+    {
+      "id": "477",
+      "name": "Victoria&#39;s Secret",
+      "icon": "store\/4775e2e8df1cf6db.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.victoriassecret.com\/",
+      "searchUrl": "",
+      "colorCode": "#BF2E86"
+    },
+    {
+      "id": "478",
+      "name": "Walgreens",
+      "icon": "store\/4785e2e8dfa32c34.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.walgreens.com\/",
+      "searchUrl": "",
+      "colorCode": "#E31837"
+    },
+    {
+      "id": "516",
+      "name": "Asos",
+      "icon": "store\/516.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.asos.com\/",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "517",
+      "name": "Boohoo",
+      "icon": "store\/517.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.boohoo.com\/",
+      "searchUrl": null,
+      "colorCode": ""
+    },
+    {
+      "id": "518",
+      "name": "Forever 21",
+      "icon": "store\/518.png",
+      "deals_count": 0,
+      "url": "https:\/\/www.forever21.com\/us\/shop",
+      "searchUrl": null,
+      "colorCode": ""
+    }
+  ],
+  "categories": [
+    {
+      "id": "26",
+      "name": "Daily Deals",
+      "icon": "category\/26.png",
+      "stores": [
+        {
+          "id": "133",
+          "name": "Walmart",
+          "url": "https:\/\/www.walmart.com\/browse\/daily-deals\/c2hlbGZfaWQ6NTIyOTQzNAieie",
+          "oneLiner": "",
+          "icon": "store\/133.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "135",
+          "name": "Amazon",
+          "url": "http:\/\/amzn.to\/2h6kxQz",
+          "oneLiner": "",
+          "icon": "store\/135.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "155",
+          "name": "Target",
+          "url": "https:\/\/www.target.com\/c\/top-deals\/-\/N-4xw74?lnk=dNav_topdeals",
+          "oneLiner": "",
+          "icon": "store\/155.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "136",
+          "name": "Ebay",
+          "url": "https:\/\/goo.gl\/mOHltx",
+          "oneLiner": "",
+          "icon": "store\/136.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "147",
+          "name": "Best buy",
+          "url": "https:\/\/www.bestbuy.com\/site\/misc\/deal-of-the-day\/pcmcat248000050016.c",
+          "oneLiner": "",
+          "icon": "store\/147.jpg",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "154",
+          "name": "Etsy",
+          "url": "https:\/\/www.etsy.com\/market\/best_deal",
+          "oneLiner": "",
+          "icon": "store\/154.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "441",
+          "name": "Bath and Body Works",
+          "url": "https:\/\/www.bathandbodyworks.com\/g\/top-offers",
+          "oneLiner": "",
+          "icon": "store\/441.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "138",
+          "name": "Kohl&#39;s",
+          "url": "http:\/\/www.kohls.com\/sale-event\/coupons-deals.jsp?cc=todaysdeals-TN1.0-S-todaysdeals",
+          "oneLiner": "",
+          "icon": "store\/138.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "140",
+          "name": "Groupon",
+          "url": "https:\/\/www.groupon.com\/occasion\/black-friday-deals",
+          "oneLiner": "",
+          "icon": "store\/140.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "142",
+          "name": "Shop your way",
+          "url": "http:\/\/www.shopyourway.com\/deals",
+          "oneLiner": "",
+          "icon": "store\/142.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "143",
+          "name": "Jc penney",
+          "url": "http:\/\/www.jcpenney.com\/blackfridaydeals",
+          "oneLiner": "",
+          "icon": "store\/143.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "134",
+          "name": "Light in the box",
+          "url": "http:\/\/m.lightinthebox.com\/promotions\/super-sale-2016.html",
+          "oneLiner": "",
+          "icon": "store\/134.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "158",
+          "name": "Costco",
+          "url": "https:\/\/www.costco.com\/mailers.html",
+          "oneLiner": "",
+          "icon": "store\/158.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "224",
+          "name": "Walgreens",
+          "url": "https:\/\/www.walgreens.com\/offers\/offers.jsp\/weeklyad?view=weeklyad",
+          "oneLiner": "",
+          "icon": "store\/224.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "27",
+      "name": "Trending Stores",
+      "icon": "category\/27.png",
+      "stores": [
+        {
+          "id": "133",
+          "name": "Walmart",
+          "url": "http:\/\/bit.ly\/2HfWAFB",
+          "oneLiner": "",
+          "icon": "store\/133.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "135",
+          "name": "Amazon",
+          "url": "https:\/\/amzn.to\/2UGLYHH",
+          "oneLiner": "",
+          "icon": "store\/135.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "155",
+          "name": "Target",
+          "url": "https:\/\/www.target.com\/",
+          "oneLiner": "",
+          "icon": "store\/155.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "136",
+          "name": "Ebay",
+          "url": "https:\/\/www.ebay.com\/",
+          "oneLiner": "",
+          "icon": "store\/136.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "154",
+          "name": "Etsy",
+          "url": "https:\/\/www.etsy.com\/market\/united_states",
+          "oneLiner": "",
+          "icon": "store\/154.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "138",
+          "name": "Kohl&#39;s",
+          "url": "http:\/\/www.kohls.com\/",
+          "oneLiner": "",
+          "icon": "store\/138.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "147",
+          "name": "Best buy",
+          "url": "http:\/\/www.bestbuy.com\/?intl=nosplash",
+          "oneLiner": "",
+          "icon": "store\/147.jpg",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "169",
+          "name": "Shein",
+          "url": "https:\/\/us.shein.com\/",
+          "oneLiner": "",
+          "icon": "store\/169.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "160",
+          "name": "Macy&#39;s",
+          "url": "https:\/\/www.macys.com\/",
+          "oneLiner": "",
+          "icon": "store\/160.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "139",
+          "name": "Hhgregg",
+          "url": "http:\/\/www.hhgregg.com\/",
+          "oneLiner": "",
+          "icon": "store\/139.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "137",
+          "name": "Ali express",
+          "url": "https:\/\/www.aliexpress.com\/",
+          "oneLiner": "",
+          "icon": "store\/137.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "145",
+          "name": "Wish",
+          "url": "https:\/\/www.wish.com\/m?app_deep_link=d2lzaDovLw%3D%3D",
+          "oneLiner": "",
+          "icon": "store\/145.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "134",
+          "name": "Light in the box",
+          "url": "http:\/\/m.lightinthebox.com\/",
+          "oneLiner": "",
+          "icon": "store\/134.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "205",
+          "name": "Letgo",
+          "url": "https:\/\/www.letgo.com\/splash",
+          "oneLiner": "",
+          "icon": "store\/205.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "28",
+      "name": "Shopping",
+      "icon": "category\/28.png",
+      "stores": [
+        {
+          "id": "133",
+          "name": "Walmart",
+          "url": "http:\/\/bit.ly\/2HfWAFB",
+          "oneLiner": "",
+          "icon": "store\/133.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "135",
+          "name": "Amazon",
+          "url": "https:\/\/amzn.to\/2UGLYHH",
+          "oneLiner": "",
+          "icon": "store\/135.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "136",
+          "name": "Ebay",
+          "url": "https:\/\/goo.gl\/u6BehD",
+          "oneLiner": "",
+          "icon": "store\/136.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "155",
+          "name": "Target",
+          "url": "http:\/\/www.target.com\/",
+          "oneLiner": "",
+          "icon": "store\/155.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "142",
+          "name": "Shop your way",
+          "url": "http:\/\/www.shopyourway.com\/m\/today",
+          "oneLiner": "",
+          "icon": "store\/142.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "154",
+          "name": "Etsy",
+          "url": "https:\/\/www.etsy.com\/in-en\/",
+          "oneLiner": "",
+          "icon": "store\/154.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "149",
+          "name": "Qvc",
+          "url": "http:\/\/www.qvc.com\/",
+          "oneLiner": "",
+          "icon": "store\/149.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "150",
+          "name": "Amazon prime now",
+          "url": "https:\/\/primenow.amazon.com\/",
+          "oneLiner": "",
+          "icon": "store\/150.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "151",
+          "name": "Dollar general",
+          "url": "http:\/\/www.dollargeneral.com\/",
+          "oneLiner": "",
+          "icon": "store\/151.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "152",
+          "name": "Jet",
+          "url": "https:\/\/jet.com\/",
+          "oneLiner": "",
+          "icon": "store\/152.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "153",
+          "name": "Dhgate",
+          "url": "http:\/\/m.dhgate.com\/",
+          "oneLiner": "",
+          "icon": "store\/153.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "156",
+          "name": "Sears",
+          "url": "http:\/\/m.sears.com\/",
+          "oneLiner": "",
+          "icon": "store\/156.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "157",
+          "name": "Kroger",
+          "url": "https:\/\/www.kroger.com\/",
+          "oneLiner": "",
+          "icon": "store\/157.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "158",
+          "name": "Costco",
+          "url": "http:\/\/m.costco.com\/",
+          "oneLiner": "",
+          "icon": "store\/158.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "159",
+          "name": "Google express",
+          "url": "https:\/\/www.google.com\/express\/u\/0\/welcome?continue=%2Fexpress%2F",
+          "oneLiner": "",
+          "icon": "store\/159.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "29",
+      "name": "Clothing",
+      "icon": "category\/29.png",
+      "stores": [
+        {
+          "id": "516",
+          "name": "Asos",
+          "url": "https:\/\/www.asos.com\/",
+          "oneLiner": "",
+          "icon": "store\/516.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "517",
+          "name": "Boohoo",
+          "url": "https:\/\/www.boohoo.com\/",
+          "oneLiner": "",
+          "icon": "store\/517.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "146",
+          "name": "Zappos",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=ss2.0usclothing&source=linkkit&url=http%3A\/\/www.zappos.com\/clothing",
+          "oneLiner": "",
+          "icon": "store\/146.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "138",
+          "name": "Kohl&#39;s",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=ss2.0usclothing&source=linkkit&url=http%3A\/\/www.kohls.com\/",
+          "oneLiner": "",
+          "icon": "store\/138.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "135",
+          "name": "Amazon",
+          "url": "https:\/\/www.amazon.com\/Womens-Clothing\/b?ie=UTF8&node=1040660",
+          "oneLiner": "",
+          "icon": "store\/135.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "143",
+          "name": "Jc penney",
+          "url": "http:\/\/www.jcpenney.com\/",
+          "oneLiner": "",
+          "icon": "store\/143.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "160",
+          "name": "Macy&#39;s",
+          "url": "http:\/\/www1.macys.com\/",
+          "oneLiner": "",
+          "icon": "store\/160.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "161",
+          "name": "Footlocker",
+          "url": "http:\/\/www.footlocker.com\/",
+          "oneLiner": "",
+          "icon": "store\/161.jpg",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "162",
+          "name": "Snkrs",
+          "url": "http:\/\/www.snkrs.com\/en\/",
+          "oneLiner": "",
+          "icon": "store\/162.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "163",
+          "name": "Dresslily",
+          "url": "http:\/\/www.dresslily.com\/",
+          "oneLiner": "",
+          "icon": "store\/163.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "164",
+          "name": "6pm",
+          "url": "http:\/\/www.6pm.com\/",
+          "oneLiner": "",
+          "icon": "store\/164.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "165",
+          "name": "Express",
+          "url": "http:\/\/www.express.com\/",
+          "oneLiner": "",
+          "icon": "store\/165.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "166",
+          "name": "Thredup",
+          "url": "https:\/\/www.thredup.com\/",
+          "oneLiner": "",
+          "icon": "store\/166.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "167",
+          "name": "Rose wholesale",
+          "url": "http:\/\/www.rosewholesale.com\/",
+          "oneLiner": "",
+          "icon": "store\/167.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "168",
+          "name": "Sammydress",
+          "url": "http:\/\/www.sammydress.com\/",
+          "oneLiner": "",
+          "icon": "store\/168.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "30",
+      "name": "Women&#39;s Fashion",
+      "icon": "category\/30.png",
+      "stores": [
+        {
+          "id": "517",
+          "name": "Boohoo",
+          "url": "https:\/\/www.boohoo.com\/womens",
+          "oneLiner": "",
+          "icon": "store\/517.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "169",
+          "name": "Shein",
+          "url": "http:\/\/www.shein.com\/",
+          "oneLiner": "",
+          "icon": "store\/169.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "175",
+          "name": "Nasty Gal",
+          "url": "https:\/\/www.nastygal.com\/",
+          "oneLiner": "",
+          "icon": "store\/175.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "516",
+          "name": "Asos",
+          "url": "https:\/\/www.asos.com\/women\/",
+          "oneLiner": "",
+          "icon": "store\/516.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "518",
+          "name": "Forever 21",
+          "url": "https:\/\/www.forever21.com\/us\/shop\/catalog\/category\/girls\/girls_main",
+          "oneLiner": "",
+          "icon": "store\/518.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "160",
+          "name": "Macy&#39;s",
+          "url": "http:\/\/www1.macys.com\/",
+          "oneLiner": "",
+          "icon": "store\/160.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "170",
+          "name": "Zulily",
+          "url": "http:\/\/www.zulily.com\/women",
+          "oneLiner": "",
+          "icon": "store\/170.jpg",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "171",
+          "name": "Victoria&#39;s secret",
+          "url": "https:\/\/www.victoriassecret.com\/",
+          "oneLiner": "",
+          "icon": "store\/171.jpg",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "172",
+          "name": "Jane",
+          "url": "https:\/\/jane.com\/",
+          "oneLiner": "",
+          "icon": "store\/172.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "173",
+          "name": "Chic me",
+          "url": "https:\/\/www.chicme.com\/",
+          "oneLiner": "",
+          "icon": "store\/173.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "174",
+          "name": "Ulta(beauty)",
+          "url": "http:\/\/www.ulta.com\/",
+          "oneLiner": "",
+          "icon": "store\/174.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "176",
+          "name": "Cute",
+          "url": "https:\/\/cute.wish.com\/",
+          "oneLiner": "",
+          "icon": "store\/176.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "178",
+          "name": "Nordstorm",
+          "url": "http:\/\/shop.nordstrom.com\/c\/women?origin=topnav&cm_sp=Top%20Navigation-_-Women",
+          "oneLiner": "",
+          "icon": "store\/178.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "179",
+          "name": "Tradesy",
+          "url": "https:\/\/www.tradesy.com\/",
+          "oneLiner": "",
+          "icon": "store\/179.jpg",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "180",
+          "name": "Charlotte russe",
+          "url": "http:\/\/www.charlotterusse.com\/",
+          "oneLiner": "",
+          "icon": "store\/180.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "181",
+          "name": "Wanelo",
+          "url": "https:\/\/wanelo.com\/",
+          "oneLiner": "",
+          "icon": "store\/181.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "31",
+      "name": "Footwear",
+      "icon": "category\/31.png",
+      "stores": [
+        {
+          "id": "155",
+          "name": "Target",
+          "url": "https:\/\/www.target.com\/c\/shoes\/-\/N-55b0t",
+          "oneLiner": "",
+          "icon": "store\/155.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "138",
+          "name": "Kohl&#39;s",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=ss2.0usshoes&source=linkkit&url=http%3A\/\/www.kohls.com\/sale-event\/shoes.jsp%3Fcc%3Dshoes-TN1.0-S-shoes",
+          "oneLiner": "",
+          "icon": "store\/138.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "146",
+          "name": "Zappos",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=ss2.0usshoes&source=linkkit&url=http%3A\/\/www.zappos.com\/shoes",
+          "oneLiner": "",
+          "icon": "store\/146.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "161",
+          "name": "Footlocker",
+          "url": "http:\/\/www.footlocker.com\/",
+          "oneLiner": "",
+          "icon": "store\/161.jpg",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "469",
+          "name": "Zuilly",
+          "url": "https:\/\/www.zulily.com\/category\/shoes",
+          "oneLiner": "",
+          "icon": "store\/4695e2e8da471f41.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "435",
+          "name": "Adidas",
+          "url": "https:\/\/www.adidas.com\/us",
+          "oneLiner": "",
+          "icon": "store\/435.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "162",
+          "name": "Snkrs",
+          "url": "http:\/\/www.snkrs.com\/en\/",
+          "oneLiner": "",
+          "icon": "store\/162.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "163",
+          "name": "Dresslily",
+          "url": "http:\/\/www.dresslily.com\/women-s-shoes-b-81.html",
+          "oneLiner": "",
+          "icon": "store\/163.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "164",
+          "name": "6pm",
+          "url": "http:\/\/www.6pm.com\/shoes",
+          "oneLiner": "",
+          "icon": "store\/164.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "182",
+          "name": "Footaction",
+          "url": "http:\/\/www.footaction.com\/",
+          "oneLiner": "",
+          "icon": "store\/182.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "464",
+          "name": "Nike",
+          "url": "https:\/\/www.nike.com\/us\/",
+          "oneLiner": "",
+          "icon": "store\/4645e2e8d63d234a.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "32",
+      "name": "Home",
+      "icon": "category\/32.png",
+      "stores": [
+        {
+          "id": "138",
+          "name": "Kohl&#39;s",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=ss2.0ushome&source=linkkit&url=http%3A\/\/www.kohls.com\/sale-event\/for-the-home.jsp%3Fcc%3Dfor_thehome-TN1.0-S-forthehome",
+          "oneLiner": "",
+          "icon": "store\/138.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "184",
+          "name": "Thehomedepot",
+          "url": "http:\/\/www.homedepot.com\/",
+          "oneLiner": "",
+          "icon": "store\/184.jpg",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "183",
+          "name": "Home",
+          "url": "https:\/\/home.wish.com\/",
+          "oneLiner": "",
+          "icon": "store\/183.jpg",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "185",
+          "name": "Lowe&#39;s",
+          "url": "https:\/\/www.lowes.com\/",
+          "oneLiner": "",
+          "icon": "store\/185.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "186",
+          "name": "Overstock",
+          "url": "https:\/\/www.overstock.com\/",
+          "oneLiner": "",
+          "icon": "store\/186.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "187",
+          "name": "Kirkland&#39;s",
+          "url": "http:\/\/www.kirklands.com\/",
+          "oneLiner": "",
+          "icon": "store\/187.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "442",
+          "name": "Bed Bath and Beyond",
+          "url": "https:\/\/www.bedbathandbeyond.com\/",
+          "oneLiner": "",
+          "icon": "store\/442.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "33",
+      "name": "Baby & Kids",
+      "icon": "category\/33.png",
+      "stores": [
+        {
+          "id": "138",
+          "name": "Kohl&#39;s",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=ss2.0usbaby&source=linkkit&url=http%3A\/\/www.kohls.com\/sale-event\/baby.jsp%3Fcc%3Dbaby-TN1.0-S-baby",
+          "oneLiner": "",
+          "icon": "store\/138.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "170",
+          "name": "Zulily",
+          "url": "http:\/\/www.zulily.com\/",
+          "oneLiner": "",
+          "icon": "store\/170.jpg",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "195",
+          "name": "Toys&#39;R&#39;us",
+          "url": "http:\/\/www.toysrus.com\/shop\/index.jsp?categoryId=2255956",
+          "oneLiner": "",
+          "icon": "store\/195.jpg",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "155",
+          "name": "Target",
+          "url": "https:\/\/www.target.com\/c\/kids\/-\/N-xcoz4",
+          "oneLiner": "",
+          "icon": "store\/155.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "133",
+          "name": "Walmart",
+          "url": "https:\/\/www.walmart.com\/cp\/kids-clothing\/7712430?povid=FashionGlobalNav_Kids",
+          "oneLiner": "",
+          "icon": "store\/133.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "196",
+          "name": "Toys&#39;R&#39;us",
+          "url": "http:\/\/www.babiesrus.com\/shop\/index.jsp?categoryId=2255957",
+          "oneLiner": "",
+          "icon": "store\/196.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "197",
+          "name": "Partycity",
+          "url": "http:\/\/www.partycity.com\/",
+          "oneLiner": "",
+          "icon": "store\/197.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "198",
+          "name": "Mama",
+          "url": "https:\/\/mama.wish.com\/",
+          "oneLiner": "",
+          "icon": "store\/198.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "38",
+      "name": "Grocery",
+      "icon": "category\/38.png",
+      "stores": [
+        {
+          "id": "211",
+          "name": "Boxed",
+          "url": "https:\/\/www.boxed.com\/",
+          "oneLiner": "",
+          "icon": "store\/211.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "135",
+          "name": "Amazon",
+          "url": "https:\/\/www.amazon.com\/alm\/storefront?almBrandId=QW1hem9uIEZyZXNo",
+          "oneLiner": "",
+          "icon": "store\/135.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "208",
+          "name": "Checkout51",
+          "url": "https:\/\/www.checkout51.com\/?",
+          "oneLiner": "",
+          "icon": "store\/208.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "209",
+          "name": "Albertsons",
+          "url": "http:\/\/www.albertsons.com\/",
+          "oneLiner": "",
+          "icon": "store\/209.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "210",
+          "name": "Heb",
+          "url": "https:\/\/www.heb.com\/",
+          "oneLiner": "",
+          "icon": "store\/210.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "212",
+          "name": "Aldi",
+          "url": "https:\/\/www.aldi.us\/",
+          "oneLiner": "",
+          "icon": "store\/212.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "213",
+          "name": "Shoprite",
+          "url": "http:\/\/www.shoprite.com\/",
+          "oneLiner": "",
+          "icon": "store\/213.jpg",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "34",
+      "name": "Coupons\/deals",
+      "icon": "category\/34.png",
+      "stores": [
+        {
+          "id": "140",
+          "name": "Groupon",
+          "url": "https:\/\/www.groupon.com\/",
+          "oneLiner": "",
+          "icon": "store\/140.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "190",
+          "name": "Retail me not",
+          "url": "https:\/\/m.retailmenot.com\/",
+          "oneLiner": "",
+          "icon": "store\/190.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "191",
+          "name": "Krazy coupon lady",
+          "url": "http:\/\/thekrazycouponlady.com\/",
+          "oneLiner": "",
+          "icon": "store\/191.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "192",
+          "name": "Coupons",
+          "url": "https:\/\/www.coupons.com\/",
+          "oneLiner": "",
+          "icon": "store\/192.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "193",
+          "name": "Slickdeals",
+          "url": "https:\/\/slickdeals.net\/",
+          "oneLiner": "",
+          "icon": "store\/193.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "194",
+          "name": "Raise",
+          "url": "https:\/\/www.raise.com\/",
+          "oneLiner": "",
+          "icon": "store\/194.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "35",
+      "name": "Bidding",
+      "icon": "category\/35.png",
+      "stores": [
+        {
+          "id": "199",
+          "name": "Tophatter",
+          "url": "https:\/\/tophatter.com\/",
+          "oneLiner": "",
+          "icon": "store\/199.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "36",
+      "name": "Sports",
+      "icon": "category\/36.png",
+      "stores": [
+        {
+          "id": "138",
+          "name": "Kohl&#39;s",
+          "url": "https:\/\/linksredirect.com\/?pub_id=13700CL12385&subid=ss2.0ussports&source=linkkit&url=http%3A\/\/www.kohls.com\/sale-event\/sports-fan-clothing.jsp%3Fcc%3Dsportsfan-TN1.0-S-sportsfan",
+          "oneLiner": "",
+          "icon": "store\/138.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "200",
+          "name": "Dick&#39;s",
+          "url": "http:\/\/www.dickssportinggoods.com\/home\/index.jsp",
+          "oneLiner": "",
+          "icon": "store\/200.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "37",
+      "name": "Classified-Buy & Sell",
+      "icon": "category\/37.png",
+      "stores": [
+        {
+          "id": "201",
+          "name": "Craigslist",
+          "url": "https:\/\/www.craigslist.org\/about\/sites#US",
+          "oneLiner": "",
+          "icon": "store\/201.jpg",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "202",
+          "name": "Poshmark(fashion)",
+          "url": "https:\/\/poshmark.com\/",
+          "oneLiner": "",
+          "icon": "store\/202.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "203",
+          "name": "5miles",
+          "url": "https:\/\/www.5milesapp.com\/",
+          "oneLiner": "",
+          "icon": "store\/203.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "205",
+          "name": "Letgo",
+          "url": "https:\/\/us.letgo.com\/en",
+          "oneLiner": "",
+          "icon": "store\/205.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "206",
+          "name": "Close 5",
+          "url": "https:\/\/www.close5.com\/",
+          "oneLiner": "",
+          "icon": "store\/206.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "207",
+          "name": "Varagesale",
+          "url": "https:\/\/www.varagesale.com\/",
+          "oneLiner": "",
+          "icon": "store\/207.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "39",
+      "name": "Gifts & Flowers",
+      "icon": "category\/39.png",
+      "stores": [
+        {
+          "id": "188",
+          "name": "Hollar",
+          "url": "https:\/\/hollar.com\/",
+          "oneLiner": "",
+          "icon": "store\/188.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "189",
+          "name": "Ac moore",
+          "url": "https:\/\/www.acmoore.com\/",
+          "oneLiner": "",
+          "icon": "store\/189.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "40",
+      "name": "Food",
+      "icon": "category\/40.png",
+      "stores": [
+        {
+          "id": "214",
+          "name": "Eat24",
+          "url": "https:\/\/eat24hours.com\/",
+          "oneLiner": "",
+          "icon": "store\/214.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "215",
+          "name": "Beyond menu",
+          "url": "https:\/\/www.beyondmenu.com\/",
+          "oneLiner": "",
+          "icon": "store\/215.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "217",
+          "name": "Doordash",
+          "url": "https:\/\/www.doordash.com\/",
+          "oneLiner": "",
+          "icon": "store\/217.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "218",
+          "name": "Caviar",
+          "url": "https:\/\/www.trycaviar.com\/",
+          "oneLiner": "",
+          "icon": "store\/218.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "219",
+          "name": "Delivery",
+          "url": "https:\/\/www.delivery.com\/",
+          "oneLiner": "",
+          "icon": "store\/219.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "220",
+          "name": "Minibar",
+          "url": "https:\/\/minibardelivery.com\/",
+          "oneLiner": "",
+          "icon": "store\/220.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "221",
+          "name": "Munchery",
+          "url": "https:\/\/munchery.com\/",
+          "oneLiner": "",
+          "icon": "store\/221.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "41",
+      "name": "Car & Motorbike",
+      "icon": "category\/41.png",
+      "stores": [
+        {
+          "id": "222",
+          "name": "Autozone",
+          "url": "http:\/\/www.autozone.com\/",
+          "oneLiner": "",
+          "icon": "store\/222.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        },
+        {
+          "id": "223",
+          "name": "Cargurus",
+          "url": "https:\/\/www.cargurus.com\/",
+          "oneLiner": "",
+          "icon": "store\/223.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "42",
+      "name": "Medical",
+      "icon": "category\/42.png",
+      "stores": [
+        {
+          "id": "224",
+          "name": "Walgreens",
+          "url": "https:\/\/www.walgreens.com\/?experience=B",
+          "oneLiner": "",
+          "icon": "store\/224.png",
+          "ccPhoneNumber": "",
+          "ccEmail": "",
+          "saleTransactionUrl": ""
+        }
+      ]
+    }
+  ],
+  "carousels": [
+    {
+      "image": "carousels\/country\/727.png",
+      "url": "https:\/\/amzn.to\/2UGLYHH",
+      "fallbackUrl": "https:\/\/amzn.to\/2UGLYHH",
+      "opens_liteapps": "0",
+      "caption": "Amazon Deals and Offers"
+    },
+    {
+      "image": "carousels\/country\/728.png",
+      "url": "http:\/\/bit.ly\/2HfWAFB",
+      "fallbackUrl": "http:\/\/bit.ly\/2HfWAFB",
+      "opens_liteapps": "0",
+      "caption": "Trending Products on Walmart"
+    },
+    {
+      "image": "carousels\/country\/729.png",
+      "url": "https:\/\/www.target.com\/",
+      "fallbackUrl": "https:\/\/www.target.com\/",
+      "opens_liteapps": "0",
+      "caption": "Check what&#39;s new at Target"
+    },
+    {
+      "image": "carousels\/country\/730.png",
+      "url": "https:\/\/www.bestbuy.com\/?intl=nosplash",
+      "fallbackUrl": "https:\/\/www.bestbuy.com\/?intl=nosplash",
+      "opens_liteapps": "0",
+      "caption": "Best Products at Best Buy"
+    },
+    {
+      "image": "carousels\/country\/731.png",
+      "url": "https:\/\/www.ebay.com\/",
+      "fallbackUrl": "https:\/\/www.ebay.com\/",
+      "opens_liteapps": "0",
+      "caption": "Best Deals on Ebay"
+    }
+  ],
+  "carousels2": [
+    {
+      "image": "carousels\/country\/727.png",
+      "url": "https:\/\/amzn.to\/2UGLYHH",
+      "fallbackUrl": "https:\/\/amzn.to\/2UGLYHH",
+      "opens_liteapps": "0",
+      "caption": "Amazon Deals and Offers"
+    },
+    {
+      "image": "carousels\/country\/728.png",
+      "url": "http:\/\/bit.ly\/2HfWAFB",
+      "fallbackUrl": "http:\/\/bit.ly\/2HfWAFB",
+      "opens_liteapps": "0",
+      "caption": "Trending Products on Walmart"
+    },
+    {
+      "image": "carousels\/country\/729.png",
+      "url": "https:\/\/www.target.com\/",
+      "fallbackUrl": "https:\/\/www.target.com\/",
+      "opens_liteapps": "0",
+      "caption": "Check what&#39;s new at Target"
+    },
+    {
+      "image": "carousels\/country\/730.png",
+      "url": "https:\/\/www.bestbuy.com\/?intl=nosplash",
+      "fallbackUrl": "https:\/\/www.bestbuy.com\/?intl=nosplash",
+      "opens_liteapps": "0",
+      "caption": "Best Products at Best Buy"
+    },
+    {
+      "image": "carousels\/country\/731.png",
+      "url": "https:\/\/www.ebay.com\/",
+      "fallbackUrl": "https:\/\/www.ebay.com\/",
+      "opens_liteapps": "0",
+      "caption": "Best Deals on Ebay"
+    }
+  ],
+  "generationTime": "April 6, 2025, 4:15 pm IST",
+  "unixTime": 1743936301,
+  "imagesBaseUrl": "http:\/\/img.stshr.co\/",
+  "countryCode": "US",
+  "tabsOrder": [
+    0,
+    1,
+    2,
+    3
+  ]
+}
